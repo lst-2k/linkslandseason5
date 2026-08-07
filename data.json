@@ -1,0 +1,215 @@
+{
+  "venue": "The Danish Open, Soendefyr & Brakvand",
+  "startDate": "2026-07-31",
+  "endDate": "2026-08-06",
+  "par": 69,
+  "isSig": false,
+  "players": [
+    {
+      "name": "Mr Longpole",
+      "console": "Xbox",
+      "r1": "63",
+      "r2": "65",
+      "r3": "",
+      "r4": "",
+      "total": 128,
+      "birdies": "14",
+      "isLow": false,
+      "toParVal": -10
+    },
+    {
+      "name": "WingisBack",
+      "console": "PS",
+      "r1": "68",
+      "r2": "61",
+      "r3": "",
+      "r4": "",
+      "total": 129,
+      "birdies": "",
+      "isLow": true,
+      "toParVal": -9
+    },
+    {
+      "name": "Horusphoenix",
+      "console": "Xbox",
+      "r1": "67",
+      "r2": "62",
+      "r3": "",
+      "r4": "",
+      "total": 129,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": -9
+    },
+    {
+      "name": "Colly45x",
+      "console": "Xbox",
+      "r1": "62",
+      "r2": "69",
+      "r3": "",
+      "r4": "",
+      "total": 131,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": -7
+    },
+    {
+      "name": "GbWaCkErGuY",
+      "console": "Xbox",
+      "r1": "65",
+      "r2": "67",
+      "r3": "",
+      "r4": "",
+      "total": 132,
+      "birdies": "14",
+      "isLow": false,
+      "toParVal": -6
+    },
+    {
+      "name": "Bullfrog_Leg",
+      "console": "PS",
+      "r1": "66",
+      "r2": "73",
+      "r3": "",
+      "r4": "",
+      "total": 139,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": 1
+    },
+    {
+      "name": "Demonondalinks",
+      "console": "Xbox",
+      "r1": "69",
+      "r2": "70",
+      "r3": "",
+      "r4": "",
+      "total": 139,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": 1
+    },
+    {
+      "name": "Cockatoos",
+      "console": "PC",
+      "r1": "73",
+      "r2": "67",
+      "r3": "",
+      "r4": "",
+      "total": 140,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": 2
+    },
+    {
+      "name": "x3offthetee",
+      "console": "Xbox",
+      "r1": "74",
+      "r2": "69",
+      "r3": "",
+      "r4": "",
+      "total": 143,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": 5
+    },
+    {
+      "name": "Hendomedes",
+      "console": "Xbox",
+      "r1": "76",
+      "r2": "74",
+      "r3": "",
+      "r4": "",
+      "total": 150,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": 12
+    }
+  ],
+  "backupSeason": {},
+  "backupHistory": "",
+  "date": "2026-07-31 to 2026-08-06",
+  "season": {
+    "Mr Longpole": {
+      "points": 210,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 1,
+      "acc": -10,
+      "prevRank": 1
+    },
+    "WingisBack": {
+      "points": 185,
+      "console": "PS",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -9,
+      "prevRank": 1
+    },
+    "Horusphoenix": {
+      "points": 175,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -9,
+      "prevRank": 1
+    },
+    "Colly45x": {
+      "points": 100,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -7,
+      "prevRank": 1
+    },
+    "GbWaCkErGuY": {
+      "points": 100,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -6,
+      "prevRank": 1
+    },
+    "Bullfrog_Leg": {
+      "points": 80,
+      "console": "PS",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 1,
+      "prevRank": 1
+    },
+    "Demonondalinks": {
+      "points": 80,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 1,
+      "prevRank": 1
+    },
+    "Cockatoos": {
+      "points": 60,
+      "console": "PC",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 2,
+      "prevRank": 1
+    },
+    "x3offthetee": {
+      "points": 50,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 5,
+      "prevRank": 1
+    },
+    "Hendomedes": {
+      "points": 40,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 12,
+      "prevRank": 1
+    }
+  },
+  "history": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Danish Open, Soendefyr & Brakvand (2026-07-31 to 2026-08-06) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-10</td><td>128</td></tr><tr><td>T2</td><td>WingisBack</td><td>-9</td><td>129</td></tr><tr><td>T2</td><td>Horusphoenix</td><td>-9</td><td>129</td></tr><tr><td>4</td><td>Colly45x</td><td>-7</td><td>131</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>132</td></tr><tr><td>T6</td><td>Bullfrog_Leg</td><td>+1</td><td>139</td></tr><tr><td>T6</td><td>Demonondalinks</td><td>+1</td><td>139</td></tr><tr><td>8</td><td>Cockatoos</td><td>+2</td><td>140</td></tr><tr><td>9</td><td>x3offthetee</td><td>+5</td><td>143</td></tr><tr><td>10</td><td>Hendomedes</td><td>+12</td><td>150</td></tr></table></div>"
+}
