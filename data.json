@@ -6,14 +6,14 @@
   "isSig": false,
   "players": [
     {
-      "name": "Horusphoenix",
+      "name": "horusphoenix",
       "console": "Xbox",
       "r1": "65",
       "r2": "65",
       "r3": "",
       "r4": "",
       "total": 130,
-      "birdies": "15",
+      "birdies": "",
       "isLow": false,
       "toParVal": -14
     },
@@ -21,13 +21,13 @@
       "name": "GatitoPower",
       "console": "PC",
       "r1": "70",
-      "r2": "64",
+      "r2": "62",
       "r3": "",
       "r4": "",
-      "total": 134,
+      "total": 132,
       "birdies": "",
-      "isLow": true,
-      "toParVal": -10
+      "isLow": false,
+      "toParVal": -12
     },
     {
       "name": "Colly45x",
@@ -193,7 +193,31 @@
       "eventsPlayed": 2,
       "wins": 2,
       "acc": -15,
-      "prevRank": 1
+      "form": [
+        1,
+        1
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 135,
+          "toPar": -5,
+          "pos": "T1"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 128,
+          "toPar": -10,
+          "pos": "1"
+        }
+      ],
+      "bestToPar": -10,
+      "bestTotal": 128,
+      "prevRank": 1,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "WingisBack": {
       "points": 335,
@@ -201,15 +225,55 @@
       "eventsPlayed": 2,
       "wins": 0,
       "acc": -6,
-      "prevRank": 2
+      "form": [
+        3,
+        2
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 143,
+          "toPar": 3,
+          "pos": "3"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 129,
+          "toPar": -9,
+          "pos": "T2"
+        }
+      ],
+      "bestToPar": -9,
+      "bestTotal": 129,
+      "prevRank": 2,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
-    "Horusphoenix": {
+    "horusphoenix": {
       "points": 175,
       "console": "Xbox",
       "eventsPlayed": 1,
       "wins": 0,
       "acc": -9,
-      "prevRank": 1
+      "form": [
+        2
+      ],
+      "history": [
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 129,
+          "toPar": -9,
+          "pos": "T2"
+        }
+      ],
+      "bestToPar": -9,
+      "bestTotal": 129,
+      "prevRank": 1,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "Colly45x": {
       "points": 310,
@@ -217,7 +281,31 @@
       "eventsPlayed": 2,
       "wins": 1,
       "acc": -12,
-      "prevRank": 4
+      "form": [
+        1,
+        4
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 135,
+          "toPar": -5,
+          "pos": "T1"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 131,
+          "toPar": -7,
+          "pos": "4"
+        }
+      ],
+      "bestToPar": -7,
+      "bestTotal": 131,
+      "prevRank": 4,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "GbWaCkErGuY": {
       "points": 100,
@@ -225,7 +313,23 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": -6,
-      "prevRank": 1
+      "form": [
+        5
+      ],
+      "history": [
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 132,
+          "toPar": -6,
+          "pos": "5"
+        }
+      ],
+      "bestToPar": -6,
+      "bestTotal": 132,
+      "prevRank": 1,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "Bullfrog_Leg": {
       "points": 80,
@@ -233,7 +337,23 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": 1,
-      "prevRank": 1
+      "form": [
+        6
+      ],
+      "history": [
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 139,
+          "toPar": 1,
+          "pos": "T6"
+        }
+      ],
+      "bestToPar": 1,
+      "bestTotal": 139,
+      "prevRank": 1,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "Demonondalinks": {
       "points": 160,
@@ -241,7 +361,31 @@
       "eventsPlayed": 2,
       "wins": 0,
       "acc": 13,
-      "prevRank": 7
+      "form": [
+        6,
+        6
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 152,
+          "toPar": 12,
+          "pos": "6"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 139,
+          "toPar": 1,
+          "pos": "T6"
+        }
+      ],
+      "bestToPar": 1,
+      "bestTotal": 139,
+      "prevRank": 7,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "Cockatoos": {
       "points": 60,
@@ -249,7 +393,23 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": 2,
-      "prevRank": 1
+      "form": [
+        8
+      ],
+      "history": [
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 140,
+          "toPar": 2,
+          "pos": "8"
+        }
+      ],
+      "bestToPar": 2,
+      "bestTotal": 140,
+      "prevRank": 1,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "x3offthetee": {
       "points": 50,
@@ -257,7 +417,23 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": 5,
-      "prevRank": 1
+      "form": [
+        9
+      ],
+      "history": [
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 143,
+          "toPar": 5,
+          "pos": "9"
+        }
+      ],
+      "bestToPar": 5,
+      "bestTotal": 143,
+      "prevRank": 1,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "Hendomedes": {
       "points": 140,
@@ -265,7 +441,31 @@
       "eventsPlayed": 2,
       "wins": 0,
       "acc": 18,
-      "prevRank": 10
+      "form": [
+        4,
+        10
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 146,
+          "toPar": 6,
+          "pos": "4"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 150,
+          "toPar": 12,
+          "pos": "10"
+        }
+      ],
+      "bestToPar": 6,
+      "bestTotal": 146,
+      "prevRank": 10,
+      "bestVenue": "The Lytham Trophy, Royal Lytham St Annes ",
+      "bestDate": "2026-08-07 to 2026-08-13"
     },
     "Hoplinkz": {
       "points": 90,
@@ -273,7 +473,23 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": 7,
-      "prevRank": 11
+      "form": [
+        5
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 147,
+          "toPar": 7,
+          "pos": "5"
+        }
+      ],
+      "bestToPar": 7,
+      "bestTotal": 147,
+      "prevRank": 11,
+      "bestVenue": "The Lytham Trophy, Royal Lytham St Annes ",
+      "bestDate": "2026-08-07 to 2026-08-13"
     },
     "Hammers1man": {
       "points": 70,
@@ -281,7 +497,23 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": 20,
-      "prevRank": 11
+      "form": [
+        7
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 160,
+          "toPar": 20,
+          "pos": "7"
+        }
+      ],
+      "bestToPar": 20,
+      "bestTotal": 160,
+      "prevRank": 11,
+      "bestVenue": "The Lytham Trophy, Royal Lytham St Annes ",
+      "bestDate": "2026-08-07 to 2026-08-13"
     },
     "Keep_of_Kalessin": {
       "points": 60,
@@ -289,7 +521,23 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": 25,
-      "prevRank": 11
+      "form": [
+        8
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 165,
+          "toPar": 25,
+          "pos": "T8"
+        }
+      ],
+      "bestToPar": 25,
+      "bestTotal": 165,
+      "prevRank": 11,
+      "bestVenue": "The Lytham Trophy, Royal Lytham St Annes ",
+      "bestDate": "2026-08-07 to 2026-08-13"
     },
     "Polekatt": {
       "points": 60,
@@ -297,10 +545,26 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": 25,
-      "prevRank": 11
+      "form": [
+        8
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 165,
+          "toPar": 25,
+          "pos": "T8"
+        }
+      ],
+      "bestToPar": 25,
+      "bestTotal": 165,
+      "prevRank": 11,
+      "bestVenue": "The Lytham Trophy, Royal Lytham St Annes ",
+      "bestDate": "2026-08-07 to 2026-08-13"
     }
   },
-  "backupHistory": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Danish Open, Soendefyr & Brakvand (2026-07-31 to 2026-08-06) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-10</td><td>128</td></tr><tr><td>T2</td><td>WingisBack</td><td>-9</td><td>129</td></tr><tr><td>T2</td><td>Horusphoenix</td><td>-9</td><td>129</td></tr><tr><td>4</td><td>Colly45x</td><td>-7</td><td>131</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>132</td></tr><tr><td>T6</td><td>Bullfrog_Leg</td><td>+1</td><td>139</td></tr><tr><td>T6</td><td>Demonondalinks</td><td>+1</td><td>139</td></tr><tr><td>8</td><td>Cockatoos</td><td>+2</td><td>140</td></tr><tr><td>9</td><td>x3offthetee</td><td>+5</td><td>143</td></tr><tr><td>10</td><td>Hendomedes</td><td>+12</td><td>150</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Lytham Trophy, Royal Lytham St Annes (2026-08-07 to 2026-08-13) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Mr Longpole</td><td>-5</td><td>135</td></tr><tr><td>T1</td><td>Colly45x</td><td>-5</td><td>135</td></tr><tr><td>3</td><td>WingisBack</td><td>+3</td><td>143</td></tr><tr><td>4</td><td>Hendomedes</td><td>+6</td><td>146</td></tr><tr><td>5</td><td>Hoplinkz</td><td>+7</td><td>147</td></tr><tr><td>6</td><td>Demonondalinks</td><td>+12</td><td>152</td></tr><tr><td>7</td><td>Hammers1man</td><td>+20</td><td>160</td></tr><tr><td>T8</td><td>Keep_of_Kalessin</td><td>+25</td><td>165</td></tr><tr><td>T8</td><td>Polekatt</td><td>+25</td><td>165</td></tr></table></div>",
+  "backupHistory": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Danish Open, Soendefyr & Brakvand (2026-07-31 to 2026-08-06) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-10</td><td>128</td></tr><tr><td>T2</td><td>WingisBack</td><td>-9</td><td>129</td></tr><tr><td>T2</td><td>horusphoenix</td><td>-9</td><td>129</td></tr><tr><td>4</td><td>Colly45x</td><td>-7</td><td>131</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>132</td></tr><tr><td>T6</td><td>Bullfrog_Leg</td><td>+1</td><td>139</td></tr><tr><td>T6</td><td>Demonondalinks</td><td>+1</td><td>139</td></tr><tr><td>8</td><td>Cockatoos</td><td>+2</td><td>140</td></tr><tr><td>9</td><td>x3offthetee</td><td>+5</td><td>143</td></tr><tr><td>10</td><td>Hendomedes</td><td>+12</td><td>150</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Lytham Trophy, Royal Lytham St Annes  (2026-08-07 to 2026-08-13) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Mr Longpole</td><td>-5</td><td>135</td></tr><tr><td>T1</td><td>Colly45x</td><td>-5</td><td>135</td></tr><tr><td>3</td><td>WingisBack</td><td>+3</td><td>143</td></tr><tr><td>4</td><td>Hendomedes</td><td>+6</td><td>146</td></tr><tr><td>5</td><td>Hoplinkz</td><td>+7</td><td>147</td></tr><tr><td>6</td><td>Demonondalinks</td><td>+12</td><td>152</td></tr><tr><td>7</td><td>Hammers1man</td><td>+20</td><td>160</td></tr><tr><td>T8</td><td>Keep_of_Kalessin</td><td>+25</td><td>165</td></tr><tr><td>T8</td><td>Polekatt</td><td>+25</td><td>165</td></tr></table></div>",
   "date": "2026-08-14 to 2026-08-20",
   "season": {
     "Mr Longpole": {
@@ -309,7 +573,39 @@
       "eventsPlayed": 3,
       "wins": 2,
       "acc": -17,
-      "prevRank": 1
+      "form": [
+        4,
+        1,
+        1
+      ],
+      "history": [
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 142,
+          "toPar": -2,
+          "pos": "4"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 135,
+          "toPar": -5,
+          "pos": "T1"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 128,
+          "toPar": -10,
+          "pos": "1"
+        }
+      ],
+      "bestToPar": -10,
+      "bestTotal": 128,
+      "prevRank": 1,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "WingisBack": {
       "points": 335,
@@ -317,15 +613,63 @@
       "eventsPlayed": 2,
       "wins": 0,
       "acc": -6,
-      "prevRank": 2
+      "form": [
+        3,
+        2
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 143,
+          "toPar": 3,
+          "pos": "3"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 129,
+          "toPar": -9,
+          "pos": "T2"
+        }
+      ],
+      "bestToPar": -9,
+      "bestTotal": 129,
+      "prevRank": 2,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
-    "Horusphoenix": {
-      "points": 385,
+    "horusphoenix": {
+      "points": 375,
       "console": "Xbox",
       "eventsPlayed": 2,
       "wins": 1,
       "acc": -23,
-      "prevRank": 4
+      "form": [
+        1,
+        2
+      ],
+      "history": [
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 130,
+          "toPar": -14,
+          "pos": "1"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 129,
+          "toPar": -9,
+          "pos": "T2"
+        }
+      ],
+      "bestToPar": -14,
+      "bestTotal": 130,
+      "prevRank": 4,
+      "bestVenue": "The Irish Open, Portmarnock",
+      "bestDate": "2026-08-14 to 2026-08-20"
     },
     "Colly45x": {
       "points": 460,
@@ -333,7 +677,39 @@
       "eventsPlayed": 3,
       "wins": 1,
       "acc": -18,
-      "prevRank": 3
+      "form": [
+        3,
+        1,
+        4
+      ],
+      "history": [
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 138,
+          "toPar": -6,
+          "pos": "3"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 135,
+          "toPar": -5,
+          "pos": "T1"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 131,
+          "toPar": -7,
+          "pos": "4"
+        }
+      ],
+      "bestToPar": -7,
+      "bestTotal": 131,
+      "prevRank": 3,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "GbWaCkErGuY": {
       "points": 100,
@@ -341,7 +717,23 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": -6,
-      "prevRank": 1
+      "form": [
+        5
+      ],
+      "history": [
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 132,
+          "toPar": -6,
+          "pos": "5"
+        }
+      ],
+      "bestToPar": -6,
+      "bestTotal": 132,
+      "prevRank": 1,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "Bullfrog_Leg": {
       "points": 80,
@@ -349,7 +741,23 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": 1,
-      "prevRank": 1
+      "form": [
+        6
+      ],
+      "history": [
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 139,
+          "toPar": 1,
+          "pos": "T6"
+        }
+      ],
+      "bestToPar": 1,
+      "bestTotal": 139,
+      "prevRank": 1,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "Demonondalinks": {
       "points": 230,
@@ -357,7 +765,39 @@
       "eventsPlayed": 3,
       "wins": 0,
       "acc": 23,
-      "prevRank": 5
+      "form": [
+        7,
+        6,
+        6
+      ],
+      "history": [
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 154,
+          "toPar": 10,
+          "pos": "7"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 152,
+          "toPar": 12,
+          "pos": "6"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 139,
+          "toPar": 1,
+          "pos": "T6"
+        }
+      ],
+      "bestToPar": 1,
+      "bestTotal": 139,
+      "prevRank": 5,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "Cockatoos": {
       "points": 60,
@@ -365,7 +805,23 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": 2,
-      "prevRank": 1
+      "form": [
+        8
+      ],
+      "history": [
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 140,
+          "toPar": 2,
+          "pos": "8"
+        }
+      ],
+      "bestToPar": 2,
+      "bestTotal": 140,
+      "prevRank": 1,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
     },
     "x3offthetee": {
       "points": 140,
@@ -373,7 +829,31 @@
       "eventsPlayed": 2,
       "wins": 0,
       "acc": 4,
-      "prevRank": 14
+      "form": [
+        5,
+        9
+      ],
+      "history": [
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 143,
+          "toPar": -1,
+          "pos": "5"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 143,
+          "toPar": 5,
+          "pos": "9"
+        }
+      ],
+      "bestToPar": -1,
+      "bestTotal": 143,
+      "prevRank": 14,
+      "bestVenue": "The Irish Open, Portmarnock",
+      "bestDate": "2026-08-14 to 2026-08-20"
     },
     "Hendomedes": {
       "points": 140,
@@ -381,7 +861,31 @@
       "eventsPlayed": 2,
       "wins": 0,
       "acc": 18,
-      "prevRank": 10
+      "form": [
+        4,
+        10
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 146,
+          "toPar": 6,
+          "pos": "4"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 150,
+          "toPar": 12,
+          "pos": "10"
+        }
+      ],
+      "bestToPar": 6,
+      "bestTotal": 146,
+      "prevRank": 10,
+      "bestVenue": "The Lytham Trophy, Royal Lytham St Annes ",
+      "bestDate": "2026-08-07 to 2026-08-13"
     },
     "Hoplinkz": {
       "points": 90,
@@ -389,7 +893,23 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": 7,
-      "prevRank": 11
+      "form": [
+        5
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 147,
+          "toPar": 7,
+          "pos": "5"
+        }
+      ],
+      "bestToPar": 7,
+      "bestTotal": 147,
+      "prevRank": 11,
+      "bestVenue": "The Lytham Trophy, Royal Lytham St Annes ",
+      "bestDate": "2026-08-07 to 2026-08-13"
     },
     "Hammers1man": {
       "points": 70,
@@ -397,7 +917,23 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": 20,
-      "prevRank": 11
+      "form": [
+        7
+      ],
+      "history": [
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 160,
+          "toPar": 20,
+          "pos": "7"
+        }
+      ],
+      "bestToPar": 20,
+      "bestTotal": 160,
+      "prevRank": 11,
+      "bestVenue": "The Lytham Trophy, Royal Lytham St Annes ",
+      "bestDate": "2026-08-07 to 2026-08-13"
     },
     "Keep_of_Kalessin": {
       "points": 140,
@@ -405,7 +941,31 @@
       "eventsPlayed": 2,
       "wins": 0,
       "acc": 32,
-      "prevRank": 12
+      "form": [
+        6,
+        8
+      ],
+      "history": [
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 151,
+          "toPar": 7,
+          "pos": "6"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 165,
+          "toPar": 25,
+          "pos": "T8"
+        }
+      ],
+      "bestToPar": 7,
+      "bestTotal": 151,
+      "prevRank": 12,
+      "bestVenue": "The Irish Open, Portmarnock",
+      "bestDate": "2026-08-14 to 2026-08-20"
     },
     "Polekatt": {
       "points": 120,
@@ -413,16 +973,56 @@
       "eventsPlayed": 2,
       "wins": 0,
       "acc": 48,
-      "prevRank": 13
+      "form": [
+        8,
+        8
+      ],
+      "history": [
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 167,
+          "toPar": 23,
+          "pos": "8"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 165,
+          "toPar": 25,
+          "pos": "T8"
+        }
+      ],
+      "bestToPar": 23,
+      "bestTotal": 167,
+      "prevRank": 13,
+      "bestVenue": "The Irish Open, Portmarnock",
+      "bestDate": "2026-08-14 to 2026-08-20"
     },
     "GatitoPower": {
-      "points": 185,
+      "points": 175,
       "console": "PC",
       "eventsPlayed": 1,
       "wins": 0,
-      "acc": -10,
-      "prevRank": 15
+      "acc": -12,
+      "form": [
+        2
+      ],
+      "history": [
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 132,
+          "toPar": -12,
+          "pos": "2"
+        }
+      ],
+      "bestToPar": -12,
+      "bestTotal": 132,
+      "prevRank": 15,
+      "bestVenue": "The Irish Open, Portmarnock",
+      "bestDate": "2026-08-14 to 2026-08-20"
     }
   },
-  "history": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Danish Open, Soendefyr & Brakvand (2026-07-31 to 2026-08-06) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-10</td><td>128</td></tr><tr><td>T2</td><td>WingisBack</td><td>-9</td><td>129</td></tr><tr><td>T2</td><td>Horusphoenix</td><td>-9</td><td>129</td></tr><tr><td>4</td><td>Colly45x</td><td>-7</td><td>131</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>132</td></tr><tr><td>T6</td><td>Bullfrog_Leg</td><td>+1</td><td>139</td></tr><tr><td>T6</td><td>Demonondalinks</td><td>+1</td><td>139</td></tr><tr><td>8</td><td>Cockatoos</td><td>+2</td><td>140</td></tr><tr><td>9</td><td>x3offthetee</td><td>+5</td><td>143</td></tr><tr><td>10</td><td>Hendomedes</td><td>+12</td><td>150</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Lytham Trophy, Royal Lytham St Annes (2026-08-07 to 2026-08-13) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Mr Longpole</td><td>-5</td><td>135</td></tr><tr><td>T1</td><td>Colly45x</td><td>-5</td><td>135</td></tr><tr><td>3</td><td>WingisBack</td><td>+3</td><td>143</td></tr><tr><td>4</td><td>Hendomedes</td><td>+6</td><td>146</td></tr><tr><td>5</td><td>Hoplinkz</td><td>+7</td><td>147</td></tr><tr><td>6</td><td>Demonondalinks</td><td>+12</td><td>152</td></tr><tr><td>7</td><td>Hammers1man</td><td>+20</td><td>160</td></tr><tr><td>T8</td><td>Keep_of_Kalessin</td><td>+25</td><td>165</td></tr><tr><td>T8</td><td>Polekatt</td><td>+25</td><td>165</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Irish Open, Portmarnock (2026-08-14 to 2026-08-20) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Horusphoenix</td><td>-14</td><td>130</td></tr><tr><td>2</td><td>GatitoPower</td><td>-10</td><td>134</td></tr><tr><td>3</td><td>Colly45x</td><td>-6</td><td>138</td></tr><tr><td>4</td><td>Mr Longpole</td><td>-2</td><td>142</td></tr><tr><td>5</td><td>x3offthetee</td><td>-1</td><td>143</td></tr><tr><td>6</td><td>Keep_of_Kalessin</td><td>+7</td><td>151</td></tr><tr><td>7</td><td>Demonondalinks</td><td>+10</td><td>154</td></tr><tr><td>8</td><td>Polekatt</td><td>+23</td><td>167</td></tr></table></div>"
+  "history": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Danish Open, Soendefyr & Brakvand (2026-07-31 to 2026-08-06) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-10</td><td>128</td></tr><tr><td>T2</td><td>WingisBack</td><td>-9</td><td>129</td></tr><tr><td>T2</td><td>horusphoenix</td><td>-9</td><td>129</td></tr><tr><td>4</td><td>Colly45x</td><td>-7</td><td>131</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>132</td></tr><tr><td>T6</td><td>Bullfrog_Leg</td><td>+1</td><td>139</td></tr><tr><td>T6</td><td>Demonondalinks</td><td>+1</td><td>139</td></tr><tr><td>8</td><td>Cockatoos</td><td>+2</td><td>140</td></tr><tr><td>9</td><td>x3offthetee</td><td>+5</td><td>143</td></tr><tr><td>10</td><td>Hendomedes</td><td>+12</td><td>150</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Lytham Trophy, Royal Lytham St Annes  (2026-08-07 to 2026-08-13) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Mr Longpole</td><td>-5</td><td>135</td></tr><tr><td>T1</td><td>Colly45x</td><td>-5</td><td>135</td></tr><tr><td>3</td><td>WingisBack</td><td>+3</td><td>143</td></tr><tr><td>4</td><td>Hendomedes</td><td>+6</td><td>146</td></tr><tr><td>5</td><td>Hoplinkz</td><td>+7</td><td>147</td></tr><tr><td>6</td><td>Demonondalinks</td><td>+12</td><td>152</td></tr><tr><td>7</td><td>Hammers1man</td><td>+20</td><td>160</td></tr><tr><td>T8</td><td>Keep_of_Kalessin</td><td>+25</td><td>165</td></tr><tr><td>T8</td><td>Polekatt</td><td>+25</td><td>165</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Irish Open, Portmarnock (2026-08-14 to 2026-08-20) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>horusphoenix</td><td>-14</td><td>130</td></tr><tr><td>2</td><td>GatitoPower</td><td>-12</td><td>132</td></tr><tr><td>3</td><td>Colly45x</td><td>-6</td><td>138</td></tr><tr><td>4</td><td>Mr Longpole</td><td>-2</td><td>142</td></tr><tr><td>5</td><td>x3offthetee</td><td>-1</td><td>143</td></tr><tr><td>6</td><td>Keep_of_Kalessin</td><td>+7</td><td>151</td></tr><tr><td>7</td><td>Demonondalinks</td><td>+10</td><td>154</td></tr><tr><td>8</td><td>Polekatt</td><td>+23</td><td>167</td></tr></table></div>"
 }

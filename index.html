@@ -6,11 +6,12 @@
     <title>Live Leaderboard</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
-        /* MASTERS EMERALD & GOLD THEME */
         :root { 
             --emerald-dark: #005130; 
             --emerald-light: #0d7044;
             --gold-accent: #d4af37; 
+            --silver-accent: #c0c0c0;
+            --bronze-accent: #cd7f32;
             --mint-green: #2e8b57;
             --ps-blue: #00439c; 
             --xbox-green: #107c10; 
@@ -21,7 +22,6 @@
 
         body { font-family: 'Segoe UI', sans-serif; background-color: var(--bg-tint); margin: 0; font-size: 14px; color: #2c3e50; }
         
-        /* FULL-WIDTH STRETCHED LOGO BANNER */
         .league-banner { background: var(--emerald-dark); text-align: center; border-bottom: 4px solid var(--gold-accent); width: 100%; }
         .league-logo { width: 100%; height: auto; display: block; }
         
@@ -41,7 +41,18 @@
         
         .player-col { text-align: left !important; padding-left: 20px; font-weight: 600; color: var(--emerald-dark); }
         
-        /* CONSOLE ICONS */
+        .player-link { 
+            color: #0056b3; 
+            text-decoration: underline; 
+            font-weight: 700; 
+            cursor: pointer; 
+            transition: color 0.15s ease-in-out;
+        }
+        .player-link:hover { 
+            color: #002752; 
+            text-decoration: underline;
+        }
+        
         .fa-brands { font-size: 1em; vertical-align: middle; margin-right: 6px; width: 18px; text-align: center; }
         .fa-playstation { color: var(--ps-blue); } 
         .fa-xbox { color: var(--xbox-green); } 
@@ -56,7 +67,6 @@
         
         h3 { color: var(--emerald-dark); font-size: 1.1em; padding: 15px; margin: 0; text-transform: uppercase; letter-spacing: 1px; }
         
-        /* FIXED UNIFORM HISTORY HEADER */
         .history-header { 
             background: #fff; padding: 12px 15px; border: 1px solid #e0e0e0; margin-top: 8px; cursor: pointer; 
             font-weight: 700; display: flex; justify-content: space-between; align-items: center; 
@@ -64,6 +74,45 @@
         }
         .history-header.major-border { border-left-color: var(--gold-accent); }
         .history-content { display: none; background: white; padding: 10px; border: 1px solid #e0e0e0; border-top: none; }
+
+        /* PROFILE CARD MODAL STYLES */
+        .modal-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); z-index: 1000; justify-content: center; align-items: center; }
+        .profile-card { background: white; width: 90%; max-width: 500px; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3); animation: fadeIn 0.2s ease-out; max-height: 90vh; display: flex; flex-direction: column; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
+        
+        .profile-header { background: var(--emerald-dark); color: white; padding: 20px; text-align: center; position: relative; border-bottom: 4px solid var(--gold-accent); }
+        .profile-close { position: absolute; top: 12px; right: 15px; color: white; font-size: 20px; cursor: pointer; opacity: 0.8; }
+        .profile-close:hover { opacity: 1; }
+        .profile-name { font-size: 1.4em; font-weight: 800; margin: 5px 0 0; }
+        
+        .profile-body { padding: 20px; overflow-y: auto; }
+        .stat-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-bottom: 15px; }
+        .stat-box { background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 10px; text-align: center; }
+        .stat-label { font-size: 0.75em; text-transform: uppercase; color: #6c757d; font-weight: 700; }
+        .stat-value { font-size: 1.2em; font-weight: 800; color: var(--emerald-dark); margin-top: 2px; }
+        
+        .best-score-box { background: #e8f5e9; border: 1px solid #c8e6c9; padding: 12px; border-radius: 8px; text-align: center; margin-bottom: 15px; }
+        .best-score-title { font-size: 0.75em; text-transform: uppercase; color: var(--emerald-dark); font-weight: 800; }
+        .best-score-val { font-size: 1.1em; font-weight: 800; color: var(--emerald-dark); margin: 4px 0; }
+        .best-score-meta { font-size: 0.8em; color: #555; }
+        
+        .form-tracker { text-align: center; margin-bottom: 20px; }
+        .form-title { font-size: 0.75em; text-transform: uppercase; color: #6c757d; font-weight: 700; margin-bottom: 8px; }
+        .form-badges { display: flex; justify-content: center; gap: 8px; }
+        
+        .form-badge { width: 30px; height: 30px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 0.8em; color: white; }
+        .badge-1 { background: var(--gold-accent); color: #000; box-shadow: 0 2px 4px rgba(0,0,0,0.2); }
+        .badge-2 { background: var(--silver-accent); color: #000; box-shadow: 0 2px 4px rgba(0,0,0,0.2); }
+        .badge-3 { background: var(--bronze-accent); color: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.2); }
+        .badge-other { background: #495057; color: #fff; }
+
+        /* WEEKLY RESULTS TABLE STYLES */
+        .results-section { border-top: 1px solid #e0e0e0; padding-top: 15px; }
+        .results-title { font-size: 0.8em; text-transform: uppercase; color: var(--emerald-dark); font-weight: 800; margin-bottom: 8px; text-align: center; }
+        .results-table-container { max-height: 180px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 6px; }
+        .results-table { width: 100%; font-size: 12px; }
+        .results-table th { background: #f4f6f5; color: #333; font-size: 9px; padding: 8px; border-bottom: 1px solid #ddd; }
+        .results-table td { padding: 8px; border-bottom: 1px solid #eee; }
     </style>
 </head>
 <body>
@@ -104,7 +153,57 @@
     <div id="historyContainer"></div>
 </div>
 
+<!-- PLAYER PROFILE MODAL -->
+<div id="profileModal" class="modal-overlay" onclick="closeProfile(event)">
+    <div class="profile-card" onclick="event.stopPropagation()">
+        <div class="profile-header">
+            <span class="profile-close" onclick="closeProfile()">&times;</span>
+            <div id="modalConsole"></div>
+            <div id="modalName" class="profile-name"></div>
+        </div>
+        <div class="profile-body">
+            <div class="stat-grid">
+                <div class="stat-box"><div class="stat-label">Played</div><div id="modalPlayed" class="stat-value">0</div></div>
+                <div class="stat-box"><div class="stat-label">Won</div><div id="modalWins" class="stat-value">0</div></div>
+                <div class="stat-box"><div class="stat-label">Accumulated</div><div id="modalAcc" class="stat-value">E</div></div>
+                <div class="stat-box"><div class="stat-label">Season Pts</div><div id="modalPts" class="stat-value">0</div></div>
+            </div>
+            
+            <div class="best-score-box">
+                <div class="best-score-title">⭐ Best Score (To Par)</div>
+                <div id="modalBestVal" class="best-score-val">--</div>
+                <div id="modalBestMeta" class="best-score-meta">No records yet</div>
+            </div>
+
+            <div class="form-tracker">
+                <div class="form-title">Recent Form (Last 5 Weeks)</div>
+                <div id="modalForm" class="form-badges"></div>
+            </div>
+
+            <div class="results-section">
+                <div class="results-title">Weekly Results History</div>
+                <div class="results-table-container">
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th style="text-align:left;">Date</th>
+                                <th style="text-align:left;">Venue</th>
+                                <th>Pos</th>
+                                <th>To Par</th>
+                                <th>Gross</th>
+                            </tr>
+                        </thead>
+                        <tbody id="modalResultsBody"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <script>
+    let globalSeasonData = {};
+
 	async function loadLeaderboard() {
 		try {
 			const response = await fetch('data.json');
@@ -116,6 +215,7 @@
 				headerBar.classList.add('is-major');
 				document.getElementById('sigStatus').innerHTML = '<span class="major-tag">🏆 MAJOR</span>';
 			}
+            globalSeasonData = data.season || {};
 			renderLeaderboard(data);
 			renderStandings(data.season); 
 			renderHistory(data.history);
@@ -175,9 +275,99 @@
             const accVal = p.acc || 0;
             const accDisp = accVal === 0 ? "E" : (accVal > 0 ? `+${accVal}` : accVal);
 			
-			sBody.innerHTML += `<tr><td>${currentRank}</td><td>${trendHtml}</td><td class="player-col">${getPlatformIcon(p.console)} ${p.name}</td><td>${p.eventsPlayed || 0}</td><td style="font-weight:bold; color:var(--under-red);">${p.wins || 0}</td><td class="${accVal < 0 ? 'under-par' : ''}">${accDisp}</td><td style="color:var(--emerald-dark); font-weight:bold;">${p.points}</td></tr>`;
+			sBody.innerHTML += `<tr>
+                <td>${currentRank}</td>
+                <td>${trendHtml}</td>
+                <td class="player-col">
+                    ${getPlatformIcon(p.console)} 
+                    <a class="player-link" onclick="openProfile('${p.name.replace(/'/g, "\\'")}')">${p.name}</a>
+                </td>
+                <td>${p.eventsPlayed || 0}</td>
+                <td style="font-weight:bold; color:var(--under-red);">${p.wins || 0}</td>
+                <td class="${accVal < 0 ? 'under-par' : ''}">${accDisp}</td>
+                <td style="color:var(--emerald-dark); font-weight:bold;">${p.points}</td>
+            </tr>`;
 		});
 	}
+
+    function openProfile(playerName) {
+        const p = globalSeasonData[playerName];
+        if (!p) return;
+
+        document.getElementById('modalConsole').innerHTML = getPlatformIcon(p.console);
+        document.getElementById('modalName').innerText = playerName;
+        document.getElementById('modalPlayed').innerText = p.eventsPlayed || 0;
+        document.getElementById('modalWins').innerText = p.wins || 0;
+        
+        const accVal = p.acc || 0;
+        document.getElementById('modalAcc').innerText = accVal === 0 ? "E" : (accVal > 0 ? `+${accVal}` : accVal);
+        document.getElementById('modalPts').innerText = p.points || 0;
+
+        // DYNAMIC BEST SCORE CALCULATOR (TO PAR PRIORITY: -14 < -9 < +3)
+        let bestRec = null;
+        const historyArr = p.history || [];
+
+        if (historyArr.length > 0) {
+            bestRec = [...historyArr].sort((a, b) => {
+                if (a.toPar !== b.toPar) return a.toPar - b.toPar; // Lowest To Par wins
+                return a.gross - b.gross; // Lower Gross tiebreaker
+            })[0];
+        }
+
+        if (bestRec) {
+            const tp = bestRec.toPar === 0 ? "E" : (bestRec.toPar > 0 ? `+${bestRec.toPar}` : bestRec.toPar);
+            document.getElementById('modalBestVal').innerText = `${bestRec.gross} (${tp})`;
+            document.getElementById('modalBestMeta').innerText = `@ ${bestRec.venue || 'Tournament'} (${bestRec.date || 'N/A'})`;
+        } else if (p.bestToPar !== undefined && p.bestToPar < 999) {
+            const tp = p.bestToPar === 0 ? "E" : (p.bestToPar > 0 ? `+${p.bestToPar}` : p.bestToPar);
+            document.getElementById('modalBestVal').innerText = `${p.bestTotal} (${tp})`;
+            document.getElementById('modalBestMeta').innerText = `@ ${p.bestVenue || 'Tournament'} (${p.bestDate || 'N/A'})`;
+        } else {
+            document.getElementById('modalBestVal').innerText = "--";
+            document.getElementById('modalBestMeta').innerText = "No recorded scores";
+        }
+
+        // Form Badges Formatting
+        const formDiv = document.getElementById('modalForm');
+        formDiv.innerHTML = '';
+        const formArr = p.form || [];
+        if (formArr.length === 0) {
+            formDiv.innerHTML = '<span style="font-size:0.85em; color:#888;">No recent events</span>';
+        } else {
+            formArr.forEach(pos => {
+                let badgeClass = 'badge-other';
+                if (pos === 1) badgeClass = 'badge-1';
+                else if (pos === 2) badgeClass = 'badge-2';
+                else if (pos === 3) badgeClass = 'badge-3';
+                formDiv.innerHTML += `<div class="form-badge ${badgeClass}">${pos}</div>`;
+            });
+        }
+
+        // Populate Weekly Results History Table
+        const rBody = document.getElementById('modalResultsBody');
+        rBody.innerHTML = '';
+
+        if (historyArr.length === 0) {
+            rBody.innerHTML = '<tr><td colspan="5" style="text-align:center; color:#888;">No tournament history logged yet</td></tr>';
+        } else {
+            historyArr.forEach(res => {
+                const tpDisp = res.toPar === 0 ? "E" : (res.toPar > 0 ? `+${res.toPar}` : res.toPar);
+                rBody.innerHTML += `<tr>
+                    <td style="text-align:left;">${res.date}</td>
+                    <td style="text-align:left; font-weight:600;">${res.venue}</td>
+                    <td style="font-weight:700;">${res.pos}</td>
+                    <td class="${res.toPar < 0 ? 'under-par' : ''}">${tpDisp}</td>
+                    <td style="font-weight:700;">${res.gross}</td>
+                </tr>`;
+            });
+        }
+
+        document.getElementById('profileModal').style.display = 'flex';
+    }
+
+    function closeProfile(e) {
+        document.getElementById('profileModal').style.display = 'none';
+    }
 
     function renderHistory(historyHTML) {
 		const hDiv = document.getElementById('historyContainer');
