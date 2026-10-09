@@ -1,51 +1,27 @@
 {
-  "venue": "The Old Tom Cup, Moray (Old)-Scotland",
-  "startDate": "2026-09-25",
-  "endDate": "2026-10-01",
+  "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+  "startDate": "2026-10-02",
+  "endDate": "2026-10-08",
   "par": 71,
-  "isSig": false,
+  "isSig": true,
   "players": [
-    {
-      "name": "GbWaCkErGuY",
-      "console": "Xbox",
-      "r1": "68",
-      "r2": "66",
-      "r3": "",
-      "r4": "",
-      "total": 134,
-      "birdies": "",
-      "isLow": true,
-      "toParVal": -8
-    },
     {
       "name": "Colly45x",
       "console": "Xbox",
-      "r1": "73",
-      "r2": "71",
+      "r1": "65",
+      "r2": "65",
       "r3": "",
       "r4": "",
-      "total": 144,
+      "total": 130,
       "birdies": "",
-      "isLow": false,
-      "toParVal": 2
-    },
-    {
-      "name": "x3offthetee",
-      "console": "Xbox",
-      "r1": "72",
-      "r2": "77",
-      "r3": "",
-      "r4": "",
-      "total": 149,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 7
+      "isLow": true,
+      "toParVal": -12
     },
     {
       "name": "Demonondalinks",
       "console": "Xbox",
-      "r1": "72",
-      "r2": "81",
+      "r1": "76",
+      "r2": "77",
       "r3": "",
       "r4": "",
       "total": 153,
@@ -56,20 +32,20 @@
     {
       "name": "Cockatoos",
       "console": "PC",
-      "r1": "78",
-      "r2": "80",
+      "r1": "80",
+      "r2": "73",
       "r3": "",
       "r4": "",
-      "total": 158,
+      "total": 153,
       "birdies": "",
       "isLow": false,
-      "toParVal": 16
+      "toParVal": 11
     },
     {
-      "name": "Keep_of_Kalessin",
-      "console": "PS",
-      "r1": "82",
-      "r2": "79",
+      "name": "hammers1man",
+      "console": "Xbox",
+      "r1": "79",
+      "r2": "82",
       "r3": "",
       "r4": "",
       "total": 161,
@@ -78,16 +54,16 @@
       "toParVal": 19
     },
     {
-      "name": "Polekatt",
-      "console": "PC",
-      "r1": "87",
-      "r2": "94",
+      "name": "Keep_of_Kalessin",
+      "console": "PS",
+      "r1": "75",
+      "r2": "88",
       "r3": "",
       "r4": "",
-      "total": 181,
+      "total": 163,
       "birdies": "",
       "isLow": false,
-      "toParVal": 39
+      "toParVal": 21
     }
   ],
   "backupSeason": {
@@ -250,948 +226,26 @@
       "bestDate": "2026-08-14 to 2026-08-20"
     },
     "Colly45x": {
-      "points": 1610,
+      "points": 2185,
       "console": "Xbox",
-      "eventsPlayed": 8,
-      "wins": 5,
-      "acc": -62,
+      "eventsPlayed": 10,
+      "wins": 6,
+      "acc": -72,
       "form": [
         1,
+        2,
         1,
         1,
-        3,
         1
       ],
       "history": [
         {
-          "date": "2026-09-18 to 2026-09-24",
-          "venue": "The Yeats Prize, County Sligo - Ireland",
-          "gross": 141,
-          "toPar": -1,
-          "pos": "1"
-        },
-        {
-          "date": "2026-09-11 to 2026-09-17",
-          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
-          "gross": 138,
-          "toPar": -6,
-          "pos": "1"
-        },
-        {
-          "date": "2026-09-04 to 2026-09-10",
-          "venue": "The Lundin Medal, Lundin Links",
-          "gross": 132,
-          "toPar": -10,
-          "pos": "1"
-        },
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 133,
-          "toPar": -11,
-          "pos": "3"
-        },
-        {
-          "date": "2026-08-21 to 2026-08-27",
-          "venue": "The Spitfire Trophy, Lossiemouth",
-          "gross": 128,
-          "toPar": -16,
-          "pos": "1"
-        },
-        {
-          "date": "2026-08-14 to 2026-08-20",
-          "venue": "The Irish Open, Portmarnock",
-          "gross": 138,
-          "toPar": -6,
-          "pos": "3"
-        },
-        {
-          "date": "2026-08-07 to 2026-08-13",
-          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
-          "gross": 135,
-          "toPar": -5,
-          "pos": "T1"
-        },
-        {
-          "date": "2026-07-31 to 2026-08-06",
-          "venue": "The Danish Open, Soendefyr & Brakvand",
-          "gross": 131,
-          "toPar": -7,
-          "pos": "4"
-        }
-      ],
-      "bestToPar": -16,
-      "bestTotal": 128,
-      "prevRank": 1,
-      "bestVenue": "The Spitfire Trophy, Lossiemouth",
-      "bestDate": "2026-08-21 to 2026-08-27"
-    },
-    "GbWaCkErGuY": {
-      "points": 840,
-      "console": "Xbox",
-      "eventsPlayed": 4,
-      "wins": 0,
-      "acc": -35,
-      "form": [
-        2,
-        2,
-        2,
-        5
-      ],
-      "history": [
-        {
-          "date": "2026-09-04 to 2026-09-10",
-          "venue": "The Lundin Medal, Lundin Links",
-          "gross": 133,
-          "toPar": -9,
-          "pos": "T2"
-        },
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 132,
-          "toPar": -12,
-          "pos": "2"
-        },
-        {
-          "date": "2026-08-21 to 2026-08-27",
-          "venue": "The Spitfire Trophy, Lossiemouth",
-          "gross": 136,
-          "toPar": -8,
-          "pos": "T2"
-        },
-        {
-          "date": "2026-07-31 to 2026-08-06",
-          "venue": "The Danish Open, Soendefyr & Brakvand",
-          "gross": 132,
-          "toPar": -6,
-          "pos": "5"
-        }
-      ],
-      "bestToPar": -12,
-      "bestTotal": 132,
-      "prevRank": 3,
-      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
-      "bestDate": "2026-08-28 to 2026-09-03"
-    },
-    "Bullfrog_Leg": {
-      "points": 80,
-      "console": "PS",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 1,
-      "form": [
-        6
-      ],
-      "history": [
-        {
-          "date": "2026-07-31 to 2026-08-06",
-          "venue": "The Danish Open, Soendefyr & Brakvand",
-          "gross": 139,
-          "toPar": 1,
-          "pos": "T6"
-        }
-      ],
-      "bestToPar": 1,
-      "bestTotal": 139,
-      "prevRank": 1,
-      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
-      "bestDate": "2026-07-31 to 2026-08-06"
-    },
-    "Demonondalinks": {
-      "points": 725,
-      "console": "Xbox",
-      "eventsPlayed": 8,
-      "wins": 0,
-      "acc": 50,
-      "form": [
-        2,
-        4,
-        7,
-        10,
-        8
-      ],
-      "history": [
-        {
-          "date": "2026-09-18 to 2026-09-24",
-          "venue": "The Yeats Prize, County Sligo - Ireland",
-          "gross": 144,
-          "toPar": 2,
-          "pos": "2"
-        },
-        {
-          "date": "2026-09-11 to 2026-09-17",
-          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
-          "gross": 153,
-          "toPar": 9,
-          "pos": "4"
-        },
-        {
-          "date": "2026-09-04 to 2026-09-10",
-          "venue": "The Lundin Medal, Lundin Links",
-          "gross": 154,
-          "toPar": 12,
-          "pos": "7"
-        },
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 144,
-          "toPar": 0,
-          "pos": "10"
-        },
-        {
-          "date": "2026-08-21 to 2026-08-27",
-          "venue": "The Spitfire Trophy, Lossiemouth",
-          "gross": 148,
-          "toPar": 4,
-          "pos": "8"
-        },
-        {
-          "date": "2026-08-14 to 2026-08-20",
-          "venue": "The Irish Open, Portmarnock",
-          "gross": 154,
-          "toPar": 10,
-          "pos": "7"
-        },
-        {
-          "date": "2026-08-07 to 2026-08-13",
-          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
-          "gross": 152,
-          "toPar": 12,
-          "pos": "6"
-        },
-        {
-          "date": "2026-07-31 to 2026-08-06",
-          "venue": "The Danish Open, Soendefyr & Brakvand",
-          "gross": 139,
-          "toPar": 1,
-          "pos": "T6"
-        }
-      ],
-      "bestToPar": 0,
-      "bestTotal": 144,
-      "prevRank": 6,
-      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
-      "bestDate": "2026-08-28 to 2026-09-03"
-    },
-    "Cockatoos": {
-      "points": 130,
-      "console": "PC",
-      "eventsPlayed": 2,
-      "wins": 0,
-      "acc": 18,
-      "form": [
-        7,
-        8
-      ],
-      "history": [
-        {
-          "date": "2026-09-18 to 2026-09-24",
-          "venue": "The Yeats Prize, County Sligo - Ireland",
-          "gross": 158,
-          "toPar": 16,
-          "pos": "7"
-        },
-        {
-          "date": "2026-07-31 to 2026-08-06",
-          "venue": "The Danish Open, Soendefyr & Brakvand",
-          "gross": 140,
-          "toPar": 2,
-          "pos": "8"
-        }
-      ],
-      "bestToPar": 2,
-      "bestTotal": 140,
-      "prevRank": 19,
-      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
-      "bestDate": "2026-07-31 to 2026-08-06"
-    },
-    "x3offthetee": {
-      "points": 610,
-      "console": "Xbox",
-      "eventsPlayed": 7,
-      "wins": 0,
-      "acc": 24,
-      "form": [
-        9,
-        8,
-        5,
-        5,
-        5
-      ],
-      "history": [
-        {
-          "date": "2026-09-18 to 2026-09-24",
-          "venue": "The Yeats Prize, County Sligo - Ireland",
-          "gross": 162,
-          "toPar": 20,
-          "pos": "9"
-        },
-        {
-          "date": "2026-09-11 to 2026-09-17",
-          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
-          "gross": 161,
-          "toPar": 17,
-          "pos": "8"
-        },
-        {
-          "date": "2026-09-04 to 2026-09-10",
-          "venue": "The Lundin Medal, Lundin Links",
-          "gross": 139,
-          "toPar": -3,
-          "pos": "5"
-        },
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 137,
-          "toPar": -7,
-          "pos": "T5"
-        },
-        {
-          "date": "2026-08-21 to 2026-08-27",
-          "venue": "The Spitfire Trophy, Lossiemouth",
-          "gross": 137,
-          "toPar": -7,
-          "pos": "5"
-        },
-        {
-          "date": "2026-08-14 to 2026-08-20",
-          "venue": "The Irish Open, Portmarnock",
-          "gross": 143,
-          "toPar": -1,
-          "pos": "5"
-        },
-        {
-          "date": "2026-07-31 to 2026-08-06",
-          "venue": "The Danish Open, Soendefyr & Brakvand",
-          "gross": 143,
-          "toPar": 5,
-          "pos": "9"
-        }
-      ],
-      "bestToPar": -7,
-      "bestTotal": 137,
-      "prevRank": 4,
-      "bestVenue": "The Spitfire Trophy, Lossiemouth",
-      "bestDate": "2026-08-21 to 2026-08-27"
-    },
-    "Hendomedes": {
-      "points": 395,
-      "console": "Xbox",
-      "eventsPlayed": 4,
-      "wins": 0,
-      "acc": 20,
-      "form": [
-        6,
-        2,
-        4,
-        10
-      ],
-      "history": [
-        {
-          "date": "2026-09-11 to 2026-09-17",
-          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
-          "gross": 155,
-          "toPar": 11,
-          "pos": "T6"
-        },
-        {
-          "date": "2026-09-04 to 2026-09-10",
-          "venue": "The Lundin Medal, Lundin Links",
-          "gross": 133,
-          "toPar": -9,
-          "pos": "T2"
-        },
-        {
-          "date": "2026-08-07 to 2026-08-13",
-          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
-          "gross": 146,
-          "toPar": 6,
-          "pos": "4"
-        },
-        {
-          "date": "2026-07-31 to 2026-08-06",
-          "venue": "The Danish Open, Soendefyr & Brakvand",
-          "gross": 150,
-          "toPar": 12,
-          "pos": "10"
-        }
-      ],
-      "bestToPar": -9,
-      "bestTotal": 133,
-      "prevRank": 9,
-      "bestVenue": "The Lundin Medal, Lundin Links",
-      "bestDate": "2026-09-04 to 2026-09-10"
-    },
-    "Hoplinkz": {
-      "points": 240,
-      "console": "PS",
-      "eventsPlayed": 2,
-      "wins": 0,
-      "acc": 10,
-      "form": [
-        3,
-        5
-      ],
-      "history": [
-        {
-          "date": "2026-09-18 to 2026-09-24",
-          "venue": "The Yeats Prize, County Sligo - Ireland",
-          "gross": 145,
-          "toPar": 3,
-          "pos": "T3"
-        },
-        {
-          "date": "2026-08-07 to 2026-08-13",
-          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
-          "gross": 147,
-          "toPar": 7,
-          "pos": "5"
-        }
-      ],
-      "bestToPar": 3,
-      "bestTotal": 145,
-      "prevRank": 17,
-      "bestVenue": "The Yeats Prize, County Sligo - Ireland",
-      "bestDate": "2026-09-18 to 2026-09-24"
-    },
-    "Hammers1man": {
-      "points": 325,
-      "console": "PC",
-      "eventsPlayed": 3,
-      "wins": 0,
-      "acc": 27,
-      "form": [
-        6,
-        2,
-        7
-      ],
-      "history": [
-        {
-          "date": "2026-09-18 to 2026-09-24",
-          "venue": "The Yeats Prize, County Sligo - Ireland",
-          "gross": 157,
-          "toPar": 15,
-          "pos": "6"
-        },
-        {
-          "date": "2026-08-21 to 2026-08-27",
-          "venue": "The Spitfire Trophy, Lossiemouth",
-          "gross": 136,
-          "toPar": -8,
-          "pos": "T2"
-        },
-        {
-          "date": "2026-08-07 to 2026-08-13",
-          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
-          "gross": 160,
-          "toPar": 20,
-          "pos": "7"
-        }
-      ],
-      "bestToPar": -8,
-      "bestTotal": 136,
-      "prevRank": 11,
-      "bestVenue": "The Spitfire Trophy, Lossiemouth",
-      "bestDate": "2026-08-21 to 2026-08-27"
-    },
-    "Keep_of_Kalessin": {
-      "points": 320,
-      "console": "PS",
-      "eventsPlayed": 4,
-      "wins": 0,
-      "acc": 52,
-      "form": [
-        5,
-        6,
-        6,
-        8
-      ],
-      "history": [
-        {
-          "date": "2026-09-18 to 2026-09-24",
-          "venue": "The Yeats Prize, County Sligo - Ireland",
-          "gross": 151,
-          "toPar": 9,
-          "pos": "5"
-        },
-        {
-          "date": "2026-09-11 to 2026-09-17",
-          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
-          "gross": 155,
-          "toPar": 11,
-          "pos": "T6"
-        },
-        {
-          "date": "2026-08-14 to 2026-08-20",
-          "venue": "The Irish Open, Portmarnock",
-          "gross": 151,
-          "toPar": 7,
-          "pos": "6"
-        },
-        {
-          "date": "2026-08-07 to 2026-08-13",
-          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
-          "gross": 165,
-          "toPar": 25,
-          "pos": "T8"
-        }
-      ],
-      "bestToPar": 7,
-      "bestTotal": 151,
-      "prevRank": 13,
-      "bestVenue": "The Irish Open, Portmarnock",
-      "bestDate": "2026-08-14 to 2026-08-20"
-    },
-    "Polekatt": {
-      "points": 320,
-      "console": "PC",
-      "eventsPlayed": 6,
-      "wins": 0,
-      "acc": 116,
-      "form": [
-        8,
-        8,
-        12,
-        10,
-        8
-      ],
-      "history": [
-        {
-          "date": "2026-09-18 to 2026-09-24",
-          "venue": "The Yeats Prize, County Sligo - Ireland",
-          "gross": 161,
-          "toPar": 19,
-          "pos": "8"
-        },
-        {
-          "date": "2026-09-04 to 2026-09-10",
-          "venue": "The Lundin Medal, Lundin Links",
-          "gross": 159,
-          "toPar": 17,
-          "pos": "8"
-        },
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 161,
-          "toPar": 17,
-          "pos": "12"
-        },
-        {
-          "date": "2026-08-21 to 2026-08-27",
-          "venue": "The Spitfire Trophy, Lossiemouth",
-          "gross": 159,
-          "toPar": 15,
-          "pos": "10"
-        },
-        {
-          "date": "2026-08-14 to 2026-08-20",
-          "venue": "The Irish Open, Portmarnock",
-          "gross": 167,
-          "toPar": 23,
-          "pos": "8"
-        },
-        {
-          "date": "2026-08-07 to 2026-08-13",
-          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
-          "gross": 165,
-          "toPar": 25,
-          "pos": "T8"
-        }
-      ],
-      "bestToPar": 15,
-      "bestTotal": 159,
-      "prevRank": 10,
-      "bestVenue": "The Spitfire Trophy, Lossiemouth",
-      "bestDate": "2026-08-21 to 2026-08-27"
-    },
-    "GatitoPower": {
-      "points": 175,
-      "console": "PC",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": -12,
-      "form": [
-        2
-      ],
-      "history": [
-        {
-          "date": "2026-08-14 to 2026-08-20",
-          "venue": "The Irish Open, Portmarnock",
-          "gross": 132,
-          "toPar": -12,
-          "pos": "2"
-        }
-      ],
-      "bestToPar": -12,
-      "bestTotal": 132,
-      "prevRank": 15,
-      "bestVenue": "The Irish Open, Portmarnock",
-      "bestDate": "2026-08-14 to 2026-08-20"
-    },
-    "alegiuvadoita": {
-      "points": 640,
-      "console": "PS",
-      "eventsPlayed": 5,
-      "wins": 0,
-      "acc": 10,
-      "form": [
-        3,
-        3,
-        6,
-        4,
-        9
-      ],
-      "history": [
-        {
-          "date": "2026-09-18 to 2026-09-24",
-          "venue": "The Yeats Prize, County Sligo - Ireland",
-          "gross": 145,
-          "toPar": 3,
-          "pos": "T3"
-        },
-        {
-          "date": "2026-09-11 to 2026-09-17",
-          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
-          "gross": 150,
-          "toPar": 6,
-          "pos": "3"
-        },
-        {
-          "date": "2026-09-04 to 2026-09-10",
-          "venue": "The Lundin Medal, Lundin Links",
-          "gross": 144,
-          "toPar": 2,
-          "pos": "6"
-        },
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 136,
-          "toPar": -8,
-          "pos": "4"
-        },
-        {
-          "date": "2026-08-21 to 2026-08-27",
-          "venue": "The Spitfire Trophy, Lossiemouth",
-          "gross": 151,
-          "toPar": 7,
-          "pos": "9"
-        }
-      ],
-      "bestToPar": -8,
-      "bestTotal": 136,
-      "prevRank": 8,
-      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
-      "bestDate": "2026-08-28 to 2026-09-03"
-    },
-    "CoachLewis7342": {
-      "points": 180,
-      "console": "Xbox",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": -7,
-      "form": [
-        5
-      ],
-      "history": [
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 137,
-          "toPar": -7,
-          "pos": "T5"
-        }
-      ],
-      "bestToPar": -7,
-      "bestTotal": 137,
-      "prevRank": 17,
-      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
-      "bestDate": "2026-08-28 to 2026-09-03"
-    },
-    "lanzarlaluna": {
-      "points": 230,
-      "console": "PS",
-      "eventsPlayed": 2,
-      "wins": 0,
-      "acc": 7,
-      "form": [
-        5,
-        7
-      ],
-      "history": [
-        {
-          "date": "2026-09-11 to 2026-09-17",
-          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
-          "gross": 154,
-          "toPar": 10,
-          "pos": "5"
-        },
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 141,
-          "toPar": -3,
-          "pos": "7"
-        }
-      ],
-      "bestToPar": -3,
-      "bestTotal": 141,
-      "prevRank": 15,
-      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
-      "bestDate": "2026-08-28 to 2026-09-03"
-    },
-    "NightTrainD": {
-      "points": 100,
-      "console": "Xbox",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": -1,
-      "form": [
-        9
-      ],
-      "history": [
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 143,
-          "toPar": -1,
-          "pos": "9"
-        }
-      ],
-      "bestToPar": -1,
-      "bestTotal": 143,
-      "prevRank": 17,
-      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
-      "bestDate": "2026-08-28 to 2026-09-03"
-    },
-    "SlimmerShady24": {
-      "points": 60,
-      "console": "PS",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 7,
-      "form": [
-        11
-      ],
-      "history": [
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 151,
-          "toPar": 7,
-          "pos": "11"
-        }
-      ],
-      "bestToPar": 7,
-      "bestTotal": 151,
-      "prevRank": 17,
-      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
-      "bestDate": "2026-08-28 to 2026-09-03"
-    },
-    "bfctino": {
-      "points": 20,
-      "console": "Xbox",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 31,
-      "form": [
-        13
-      ],
-      "history": [
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 175,
-          "toPar": 31,
-          "pos": "13"
-        }
-      ],
-      "bestToPar": 31,
-      "bestTotal": 175,
-      "prevRank": 17,
-      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
-      "bestDate": "2026-08-28 to 2026-09-03"
-    }
-  },
-  "backupHistory": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Danish Open, Soendefyr & Brakvand (2026-07-31 to 2026-08-06) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-10</td><td>128</td></tr><tr><td>T2</td><td>WingisBack</td><td>-9</td><td>129</td></tr><tr><td>T2</td><td>horusphoenix</td><td>-9</td><td>129</td></tr><tr><td>4</td><td>Colly45x</td><td>-7</td><td>131</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>132</td></tr><tr><td>T6</td><td>Bullfrog_Leg</td><td>+1</td><td>139</td></tr><tr><td>T6</td><td>Demonondalinks</td><td>+1</td><td>139</td></tr><tr><td>8</td><td>Cockatoos</td><td>+2</td><td>140</td></tr><tr><td>9</td><td>x3offthetee</td><td>+5</td><td>143</td></tr><tr><td>10</td><td>Hendomedes</td><td>+12</td><td>150</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Lytham Trophy, Royal Lytham St Annes  (2026-08-07 to 2026-08-13) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Mr Longpole</td><td>-5</td><td>135</td></tr><tr><td>T1</td><td>Colly45x</td><td>-5</td><td>135</td></tr><tr><td>3</td><td>WingisBack</td><td>+3</td><td>143</td></tr><tr><td>4</td><td>Hendomedes</td><td>+6</td><td>146</td></tr><tr><td>5</td><td>Hoplinkz</td><td>+7</td><td>147</td></tr><tr><td>6</td><td>Demonondalinks</td><td>+12</td><td>152</td></tr><tr><td>7</td><td>Hammers1man</td><td>+20</td><td>160</td></tr><tr><td>T8</td><td>Keep_of_Kalessin</td><td>+25</td><td>165</td></tr><tr><td>T8</td><td>Polekatt</td><td>+25</td><td>165</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Irish Open, Portmarnock (2026-08-14 to 2026-08-20) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>horusphoenix</td><td>-14</td><td>130</td></tr><tr><td>2</td><td>GatitoPower</td><td>-12</td><td>132</td></tr><tr><td>3</td><td>Colly45x</td><td>-6</td><td>138</td></tr><tr><td>4</td><td>Mr Longpole</td><td>-2</td><td>142</td></tr><tr><td>5</td><td>x3offthetee</td><td>-1</td><td>143</td></tr><tr><td>6</td><td>Keep_of_Kalessin</td><td>+7</td><td>151</td></tr><tr><td>7</td><td>Demonondalinks</td><td>+10</td><td>154</td></tr><tr><td>8</td><td>Polekatt</td><td>+23</td><td>167</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Spitfire Trophy, Lossiemouth (2026-08-21 to 2026-08-27) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-16</td><td>128</td></tr><tr><td>T2</td><td>horusphoenix</td><td>-8</td><td>136</td></tr><tr><td>T2</td><td>GbWaCkErGuY</td><td>-8</td><td>136</td></tr><tr><td>T2</td><td>Hammers1man</td><td>-8</td><td>136</td></tr><tr><td>5</td><td>x3offthetee</td><td>-7</td><td>137</td></tr><tr><td>T6</td><td>Mr Longpole</td><td>-6</td><td>138</td></tr><tr><td>T6</td><td>WingisBack</td><td>-6</td><td>138</td></tr><tr><td>8</td><td>Demonondalinks</td><td>+4</td><td>148</td></tr><tr><td>9</td><td>alegiuvadoita</td><td>+7</td><td>151</td></tr><tr><td>10</td><td>Polekatt</td><td>+15</td><td>159</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Dunvegan Cup, Old Course St Andrews (2026-08-28 to 2026-09-03) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-13</td><td>131</td></tr><tr><td>2</td><td>GbWaCkErGuY</td><td>-12</td><td>132</td></tr><tr><td>3</td><td>Colly45x</td><td>-11</td><td>133</td></tr><tr><td>4</td><td>alegiuvadoita</td><td>-8</td><td>136</td></tr><tr><td>T5</td><td>x3offthetee</td><td>-7</td><td>137</td></tr><tr><td>T5</td><td>CoachLewis7342</td><td>-7</td><td>137</td></tr><tr><td>7</td><td>lanzarlaluna</td><td>-3</td><td>141</td></tr><tr><td>8</td><td>WingisBack</td><td>-2</td><td>142</td></tr><tr><td>9</td><td>NightTrainD</td><td>-1</td><td>143</td></tr><tr><td>10</td><td>Demonondalinks</td><td>E</td><td>144</td></tr><tr><td>11</td><td>SlimmerShady24</td><td>+7</td><td>151</td></tr><tr><td>12</td><td>Polekatt</td><td>+17</td><td>161</td></tr><tr><td>13</td><td>bfctino</td><td>+31</td><td>175</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Lundin Medal, Lundin Links (2026-09-04 to 2026-09-10) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-10</td><td>132</td></tr><tr><td>T2</td><td>GbWaCkErGuY</td><td>-9</td><td>133</td></tr><tr><td>T2</td><td>Hendomedes</td><td>-9</td><td>133</td></tr><tr><td>4</td><td>Mr Longpole</td><td>-7</td><td>135</td></tr><tr><td>5</td><td>x3offthetee</td><td>-3</td><td>139</td></tr><tr><td>6</td><td>alegiuvadoita</td><td>+2</td><td>144</td></tr><tr><td>7</td><td>Demonondalinks</td><td>+12</td><td>154</td></tr><tr><td>8</td><td>Polekatt</td><td>+17</td><td>159</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Ring of Kerry Open, Waterville GL-Ireland (2026-09-11 to 2026-09-17) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-6</td><td>138</td></tr><tr><td>2</td><td>Mr Longpole</td><td>+1</td><td>145</td></tr><tr><td>3</td><td>alegiuvadoita</td><td>+6</td><td>150</td></tr><tr><td>4</td><td>Demonondalinks</td><td>+9</td><td>153</td></tr><tr><td>5</td><td>lanzarlaluna</td><td>+10</td><td>154</td></tr><tr><td>T6</td><td>Hendomedes</td><td>+11</td><td>155</td></tr><tr><td>T6</td><td>Keep_of_Kalessin</td><td>+11</td><td>155</td></tr><tr><td>8</td><td>x3offthetee</td><td>+17</td><td>161</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Yeats Prize, County Sligo - Ireland (2026-09-18 to 2026-09-24) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-1</td><td>141</td></tr><tr><td>2</td><td>Demonondalinks</td><td>+2</td><td>144</td></tr><tr><td>T3</td><td>alegiuvadoita</td><td>+3</td><td>145</td></tr><tr><td>T3</td><td>Hoplinkz</td><td>+3</td><td>145</td></tr><tr><td>5</td><td>Keep_of_Kalessin</td><td>+9</td><td>151</td></tr><tr><td>6</td><td>Hammers1man</td><td>+15</td><td>157</td></tr><tr><td>7</td><td>Cockatoos</td><td>+16</td><td>158</td></tr><tr><td>8</td><td>Polekatt</td><td>+19</td><td>161</td></tr><tr><td>9</td><td>x3offthetee</td><td>+20</td><td>162</td></tr></table></div>",
-  "date": "2026-09-25 to 2026-10-01",
-  "season": {
-    "Mr Longpole": {
-      "points": 1295,
-      "console": "Xbox",
-      "eventsPlayed": 7,
-      "wins": 3,
-      "acc": -42,
-      "form": [
-        2,
-        4,
-        1,
-        6,
-        4
-      ],
-      "history": [
-        {
-          "date": "2026-09-11 to 2026-09-17",
-          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
-          "gross": 145,
-          "toPar": 1,
-          "pos": "2"
-        },
-        {
-          "date": "2026-09-04 to 2026-09-10",
-          "venue": "The Lundin Medal, Lundin Links",
-          "gross": 135,
-          "toPar": -7,
-          "pos": "4"
-        },
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 131,
-          "toPar": -13,
-          "pos": "1"
-        },
-        {
-          "date": "2026-08-21 to 2026-08-27",
-          "venue": "The Spitfire Trophy, Lossiemouth",
-          "gross": 138,
-          "toPar": -6,
-          "pos": "T6"
-        },
-        {
-          "date": "2026-08-14 to 2026-08-20",
-          "venue": "The Irish Open, Portmarnock",
-          "gross": 142,
-          "toPar": -2,
-          "pos": "4"
-        },
-        {
-          "date": "2026-08-07 to 2026-08-13",
-          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
-          "gross": 135,
-          "toPar": -5,
-          "pos": "T1"
-        },
-        {
-          "date": "2026-07-31 to 2026-08-06",
-          "venue": "The Danish Open, Soendefyr & Brakvand",
-          "gross": 128,
-          "toPar": -10,
-          "pos": "1"
-        }
-      ],
-      "bestToPar": -13,
-      "bestTotal": 131,
-      "prevRank": 2,
-      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
-      "bestDate": "2026-08-28 to 2026-09-03"
-    },
-    "WingisBack": {
-      "points": 535,
-      "console": "PS",
-      "eventsPlayed": 4,
-      "wins": 0,
-      "acc": -14,
-      "form": [
-        8,
-        6,
-        3,
-        2
-      ],
-      "history": [
-        {
-          "date": "2026-08-28 to 2026-09-03",
-          "venue": "The Dunvegan Cup, Old Course St Andrews",
-          "gross": 142,
-          "toPar": -2,
-          "pos": "8"
-        },
-        {
-          "date": "2026-08-21 to 2026-08-27",
-          "venue": "The Spitfire Trophy, Lossiemouth",
-          "gross": 138,
-          "toPar": -6,
-          "pos": "T6"
-        },
-        {
-          "date": "2026-08-07 to 2026-08-13",
-          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
-          "gross": 143,
-          "toPar": 3,
-          "pos": "3"
-        },
-        {
-          "date": "2026-07-31 to 2026-08-06",
-          "venue": "The Danish Open, Soendefyr & Brakvand",
-          "gross": 129,
-          "toPar": -9,
-          "pos": "T2"
-        }
-      ],
-      "bestToPar": -9,
-      "bestTotal": 129,
-      "prevRank": 4,
-      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
-      "bestDate": "2026-07-31 to 2026-08-06"
-    },
-    "horusphoenix": {
-      "points": 550,
-      "console": "Xbox",
-      "eventsPlayed": 3,
-      "wins": 1,
-      "acc": -31,
-      "form": [
-        2,
-        1,
-        2
-      ],
-      "history": [
-        {
-          "date": "2026-08-21 to 2026-08-27",
-          "venue": "The Spitfire Trophy, Lossiemouth",
-          "gross": 136,
-          "toPar": -8,
-          "pos": "T2"
-        },
-        {
-          "date": "2026-08-14 to 2026-08-20",
-          "venue": "The Irish Open, Portmarnock",
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
           "gross": 130,
-          "toPar": -14,
+          "toPar": -12,
           "pos": "1"
         },
-        {
-          "date": "2026-07-31 to 2026-08-06",
-          "venue": "The Danish Open, Soendefyr & Brakvand",
-          "gross": 129,
-          "toPar": -9,
-          "pos": "T2"
-        }
-      ],
-      "bestToPar": -14,
-      "bestTotal": 130,
-      "prevRank": 3,
-      "bestVenue": "The Irish Open, Portmarnock",
-      "bestDate": "2026-08-14 to 2026-08-20"
-    },
-    "Colly45x": {
-      "points": 1785,
-      "console": "Xbox",
-      "eventsPlayed": 9,
-      "wins": 5,
-      "acc": -60,
-      "form": [
-        2,
-        1,
-        1,
-        1,
-        3
-      ],
-      "history": [
         {
           "date": "2026-09-25 to 2026-10-01",
           "venue": "The Old Tom Cup, Moray (Old)-Scotland",
@@ -1343,19 +397,26 @@
       "bestDate": "2026-07-31 to 2026-08-06"
     },
     "Demonondalinks": {
-      "points": 825,
+      "points": 1175,
       "console": "Xbox",
-      "eventsPlayed": 9,
+      "eventsPlayed": 10,
       "wins": 0,
-      "acc": 61,
+      "acc": 72,
       "form": [
+        2,
         4,
         2,
         4,
-        7,
-        10
+        7
       ],
       "history": [
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 153,
+          "toPar": 11,
+          "pos": "T2"
+        },
         {
           "date": "2026-09-25 to 2026-10-01",
           "venue": "The Old Tom Cup, Moray (Old)-Scotland",
@@ -1427,17 +488,25 @@
       "bestDate": "2026-08-28 to 2026-09-03"
     },
     "Cockatoos": {
-      "points": 220,
+      "points": 570,
       "console": "PC",
-      "eventsPlayed": 3,
+      "eventsPlayed": 4,
       "wins": 0,
-      "acc": 34,
+      "acc": 45,
       "form": [
+        2,
         5,
         7,
         8
       ],
       "history": [
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 153,
+          "toPar": 11,
+          "pos": "T2"
+        },
         {
           "date": "2026-09-25 to 2026-10-01",
           "venue": "The Old Tom Cup, Moray (Old)-Scotland",
@@ -1462,7 +531,7 @@
       ],
       "bestToPar": 2,
       "bestTotal": 140,
-      "prevRank": 17,
+      "prevRank": 15,
       "bestVenue": "The Danish Open, Soendefyr & Brakvand",
       "bestDate": "2026-07-31 to 2026-08-06"
     },
@@ -1664,19 +733,26 @@
       "bestDate": "2026-08-21 to 2026-08-27"
     },
     "Keep_of_Kalessin": {
-      "points": 400,
+      "points": 580,
       "console": "PS",
-      "eventsPlayed": 5,
+      "eventsPlayed": 6,
       "wins": 0,
-      "acc": 71,
+      "acc": 92,
       "form": [
+        5,
         6,
         5,
         6,
-        6,
-        8
+        6
       ],
       "history": [
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 163,
+          "toPar": 21,
+          "pos": "5"
+        },
         {
           "date": "2026-09-25 to 2026-10-01",
           "venue": "The Old Tom Cup, Moray (Old)-Scotland",
@@ -1715,7 +791,7 @@
       ],
       "bestToPar": 7,
       "bestTotal": 151,
-      "prevRank": 11,
+      "prevRank": 9,
       "bestVenue": "The Irish Open, Portmarnock",
       "bestDate": "2026-08-14 to 2026-08-20"
     },
@@ -1996,7 +1072,1102 @@
       "prevRank": 17,
       "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
       "bestDate": "2026-08-28 to 2026-09-03"
+    },
+    "hammers1man": {
+      "points": 200,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 19,
+      "form": [
+        4
+      ],
+      "history": [
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 161,
+          "toPar": 19,
+          "pos": "4"
+        }
+      ],
+      "bestToPar": 19,
+      "bestTotal": 161,
+      "prevRank": 22,
+      "bestVenue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+      "bestDate": "2026-10-02 to 2026-10-08"
     }
   },
-  "history": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Danish Open, Soendefyr & Brakvand (2026-07-31 to 2026-08-06) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-10</td><td>128</td></tr><tr><td>T2</td><td>WingisBack</td><td>-9</td><td>129</td></tr><tr><td>T2</td><td>horusphoenix</td><td>-9</td><td>129</td></tr><tr><td>4</td><td>Colly45x</td><td>-7</td><td>131</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>132</td></tr><tr><td>T6</td><td>Bullfrog_Leg</td><td>+1</td><td>139</td></tr><tr><td>T6</td><td>Demonondalinks</td><td>+1</td><td>139</td></tr><tr><td>8</td><td>Cockatoos</td><td>+2</td><td>140</td></tr><tr><td>9</td><td>x3offthetee</td><td>+5</td><td>143</td></tr><tr><td>10</td><td>Hendomedes</td><td>+12</td><td>150</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Lytham Trophy, Royal Lytham St Annes  (2026-08-07 to 2026-08-13) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Mr Longpole</td><td>-5</td><td>135</td></tr><tr><td>T1</td><td>Colly45x</td><td>-5</td><td>135</td></tr><tr><td>3</td><td>WingisBack</td><td>+3</td><td>143</td></tr><tr><td>4</td><td>Hendomedes</td><td>+6</td><td>146</td></tr><tr><td>5</td><td>Hoplinkz</td><td>+7</td><td>147</td></tr><tr><td>6</td><td>Demonondalinks</td><td>+12</td><td>152</td></tr><tr><td>7</td><td>Hammers1man</td><td>+20</td><td>160</td></tr><tr><td>T8</td><td>Keep_of_Kalessin</td><td>+25</td><td>165</td></tr><tr><td>T8</td><td>Polekatt</td><td>+25</td><td>165</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Irish Open, Portmarnock (2026-08-14 to 2026-08-20) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>horusphoenix</td><td>-14</td><td>130</td></tr><tr><td>2</td><td>GatitoPower</td><td>-12</td><td>132</td></tr><tr><td>3</td><td>Colly45x</td><td>-6</td><td>138</td></tr><tr><td>4</td><td>Mr Longpole</td><td>-2</td><td>142</td></tr><tr><td>5</td><td>x3offthetee</td><td>-1</td><td>143</td></tr><tr><td>6</td><td>Keep_of_Kalessin</td><td>+7</td><td>151</td></tr><tr><td>7</td><td>Demonondalinks</td><td>+10</td><td>154</td></tr><tr><td>8</td><td>Polekatt</td><td>+23</td><td>167</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Spitfire Trophy, Lossiemouth (2026-08-21 to 2026-08-27) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-16</td><td>128</td></tr><tr><td>T2</td><td>horusphoenix</td><td>-8</td><td>136</td></tr><tr><td>T2</td><td>GbWaCkErGuY</td><td>-8</td><td>136</td></tr><tr><td>T2</td><td>Hammers1man</td><td>-8</td><td>136</td></tr><tr><td>5</td><td>x3offthetee</td><td>-7</td><td>137</td></tr><tr><td>T6</td><td>Mr Longpole</td><td>-6</td><td>138</td></tr><tr><td>T6</td><td>WingisBack</td><td>-6</td><td>138</td></tr><tr><td>8</td><td>Demonondalinks</td><td>+4</td><td>148</td></tr><tr><td>9</td><td>alegiuvadoita</td><td>+7</td><td>151</td></tr><tr><td>10</td><td>Polekatt</td><td>+15</td><td>159</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Dunvegan Cup, Old Course St Andrews (2026-08-28 to 2026-09-03) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-13</td><td>131</td></tr><tr><td>2</td><td>GbWaCkErGuY</td><td>-12</td><td>132</td></tr><tr><td>3</td><td>Colly45x</td><td>-11</td><td>133</td></tr><tr><td>4</td><td>alegiuvadoita</td><td>-8</td><td>136</td></tr><tr><td>T5</td><td>x3offthetee</td><td>-7</td><td>137</td></tr><tr><td>T5</td><td>CoachLewis7342</td><td>-7</td><td>137</td></tr><tr><td>7</td><td>lanzarlaluna</td><td>-3</td><td>141</td></tr><tr><td>8</td><td>WingisBack</td><td>-2</td><td>142</td></tr><tr><td>9</td><td>NightTrainD</td><td>-1</td><td>143</td></tr><tr><td>10</td><td>Demonondalinks</td><td>E</td><td>144</td></tr><tr><td>11</td><td>SlimmerShady24</td><td>+7</td><td>151</td></tr><tr><td>12</td><td>Polekatt</td><td>+17</td><td>161</td></tr><tr><td>13</td><td>bfctino</td><td>+31</td><td>175</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Lundin Medal, Lundin Links (2026-09-04 to 2026-09-10) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-10</td><td>132</td></tr><tr><td>T2</td><td>GbWaCkErGuY</td><td>-9</td><td>133</td></tr><tr><td>T2</td><td>Hendomedes</td><td>-9</td><td>133</td></tr><tr><td>4</td><td>Mr Longpole</td><td>-7</td><td>135</td></tr><tr><td>5</td><td>x3offthetee</td><td>-3</td><td>139</td></tr><tr><td>6</td><td>alegiuvadoita</td><td>+2</td><td>144</td></tr><tr><td>7</td><td>Demonondalinks</td><td>+12</td><td>154</td></tr><tr><td>8</td><td>Polekatt</td><td>+17</td><td>159</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Ring of Kerry Open, Waterville GL-Ireland (2026-09-11 to 2026-09-17) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-6</td><td>138</td></tr><tr><td>2</td><td>Mr Longpole</td><td>+1</td><td>145</td></tr><tr><td>3</td><td>alegiuvadoita</td><td>+6</td><td>150</td></tr><tr><td>4</td><td>Demonondalinks</td><td>+9</td><td>153</td></tr><tr><td>5</td><td>lanzarlaluna</td><td>+10</td><td>154</td></tr><tr><td>T6</td><td>Hendomedes</td><td>+11</td><td>155</td></tr><tr><td>T6</td><td>Keep_of_Kalessin</td><td>+11</td><td>155</td></tr><tr><td>8</td><td>x3offthetee</td><td>+17</td><td>161</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Yeats Prize, County Sligo - Ireland (2026-09-18 to 2026-09-24) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-1</td><td>141</td></tr><tr><td>2</td><td>Demonondalinks</td><td>+2</td><td>144</td></tr><tr><td>T3</td><td>alegiuvadoita</td><td>+3</td><td>145</td></tr><tr><td>T3</td><td>Hoplinkz</td><td>+3</td><td>145</td></tr><tr><td>5</td><td>Keep_of_Kalessin</td><td>+9</td><td>151</td></tr><tr><td>6</td><td>Hammers1man</td><td>+15</td><td>157</td></tr><tr><td>7</td><td>Cockatoos</td><td>+16</td><td>158</td></tr><tr><td>8</td><td>Polekatt</td><td>+19</td><td>161</td></tr><tr><td>9</td><td>x3offthetee</td><td>+20</td><td>162</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Old Tom Cup, Moray (Old)-Scotland (2026-09-25 to 2026-10-01) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWaCkErGuY</td><td>-8</td><td>134</td></tr><tr><td>2</td><td>Colly45x</td><td>+2</td><td>144</td></tr><tr><td>3</td><td>x3offthetee</td><td>+7</td><td>149</td></tr><tr><td>4</td><td>Demonondalinks</td><td>+11</td><td>153</td></tr><tr><td>5</td><td>Cockatoos</td><td>+16</td><td>158</td></tr><tr><td>6</td><td>Keep_of_Kalessin</td><td>+19</td><td>161</td></tr><tr><td>7</td><td>Polekatt</td><td>+39</td><td>181</td></tr></table></div>"
+  "backupHistory": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Danish Open, Soendefyr & Brakvand (2026-07-31 to 2026-08-06) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-10</td><td>128</td></tr><tr><td>T2</td><td>WingisBack</td><td>-9</td><td>129</td></tr><tr><td>T2</td><td>horusphoenix</td><td>-9</td><td>129</td></tr><tr><td>4</td><td>Colly45x</td><td>-7</td><td>131</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>132</td></tr><tr><td>T6</td><td>Bullfrog_Leg</td><td>+1</td><td>139</td></tr><tr><td>T6</td><td>Demonondalinks</td><td>+1</td><td>139</td></tr><tr><td>8</td><td>Cockatoos</td><td>+2</td><td>140</td></tr><tr><td>9</td><td>x3offthetee</td><td>+5</td><td>143</td></tr><tr><td>10</td><td>Hendomedes</td><td>+12</td><td>150</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Lytham Trophy, Royal Lytham St Annes  (2026-08-07 to 2026-08-13) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Mr Longpole</td><td>-5</td><td>135</td></tr><tr><td>T1</td><td>Colly45x</td><td>-5</td><td>135</td></tr><tr><td>3</td><td>WingisBack</td><td>+3</td><td>143</td></tr><tr><td>4</td><td>Hendomedes</td><td>+6</td><td>146</td></tr><tr><td>5</td><td>Hoplinkz</td><td>+7</td><td>147</td></tr><tr><td>6</td><td>Demonondalinks</td><td>+12</td><td>152</td></tr><tr><td>7</td><td>Hammers1man</td><td>+20</td><td>160</td></tr><tr><td>T8</td><td>Keep_of_Kalessin</td><td>+25</td><td>165</td></tr><tr><td>T8</td><td>Polekatt</td><td>+25</td><td>165</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Irish Open, Portmarnock (2026-08-14 to 2026-08-20) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>horusphoenix</td><td>-14</td><td>130</td></tr><tr><td>2</td><td>GatitoPower</td><td>-12</td><td>132</td></tr><tr><td>3</td><td>Colly45x</td><td>-6</td><td>138</td></tr><tr><td>4</td><td>Mr Longpole</td><td>-2</td><td>142</td></tr><tr><td>5</td><td>x3offthetee</td><td>-1</td><td>143</td></tr><tr><td>6</td><td>Keep_of_Kalessin</td><td>+7</td><td>151</td></tr><tr><td>7</td><td>Demonondalinks</td><td>+10</td><td>154</td></tr><tr><td>8</td><td>Polekatt</td><td>+23</td><td>167</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Spitfire Trophy, Lossiemouth (2026-08-21 to 2026-08-27) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-16</td><td>128</td></tr><tr><td>T2</td><td>horusphoenix</td><td>-8</td><td>136</td></tr><tr><td>T2</td><td>GbWaCkErGuY</td><td>-8</td><td>136</td></tr><tr><td>T2</td><td>Hammers1man</td><td>-8</td><td>136</td></tr><tr><td>5</td><td>x3offthetee</td><td>-7</td><td>137</td></tr><tr><td>T6</td><td>Mr Longpole</td><td>-6</td><td>138</td></tr><tr><td>T6</td><td>WingisBack</td><td>-6</td><td>138</td></tr><tr><td>8</td><td>Demonondalinks</td><td>+4</td><td>148</td></tr><tr><td>9</td><td>alegiuvadoita</td><td>+7</td><td>151</td></tr><tr><td>10</td><td>Polekatt</td><td>+15</td><td>159</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Dunvegan Cup, Old Course St Andrews (2026-08-28 to 2026-09-03) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-13</td><td>131</td></tr><tr><td>2</td><td>GbWaCkErGuY</td><td>-12</td><td>132</td></tr><tr><td>3</td><td>Colly45x</td><td>-11</td><td>133</td></tr><tr><td>4</td><td>alegiuvadoita</td><td>-8</td><td>136</td></tr><tr><td>T5</td><td>x3offthetee</td><td>-7</td><td>137</td></tr><tr><td>T5</td><td>CoachLewis7342</td><td>-7</td><td>137</td></tr><tr><td>7</td><td>lanzarlaluna</td><td>-3</td><td>141</td></tr><tr><td>8</td><td>WingisBack</td><td>-2</td><td>142</td></tr><tr><td>9</td><td>NightTrainD</td><td>-1</td><td>143</td></tr><tr><td>10</td><td>Demonondalinks</td><td>E</td><td>144</td></tr><tr><td>11</td><td>SlimmerShady24</td><td>+7</td><td>151</td></tr><tr><td>12</td><td>Polekatt</td><td>+17</td><td>161</td></tr><tr><td>13</td><td>bfctino</td><td>+31</td><td>175</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Lundin Medal, Lundin Links (2026-09-04 to 2026-09-10) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-10</td><td>132</td></tr><tr><td>T2</td><td>GbWaCkErGuY</td><td>-9</td><td>133</td></tr><tr><td>T2</td><td>Hendomedes</td><td>-9</td><td>133</td></tr><tr><td>4</td><td>Mr Longpole</td><td>-7</td><td>135</td></tr><tr><td>5</td><td>x3offthetee</td><td>-3</td><td>139</td></tr><tr><td>6</td><td>alegiuvadoita</td><td>+2</td><td>144</td></tr><tr><td>7</td><td>Demonondalinks</td><td>+12</td><td>154</td></tr><tr><td>8</td><td>Polekatt</td><td>+17</td><td>159</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Ring of Kerry Open, Waterville GL-Ireland (2026-09-11 to 2026-09-17) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-6</td><td>138</td></tr><tr><td>2</td><td>Mr Longpole</td><td>+1</td><td>145</td></tr><tr><td>3</td><td>alegiuvadoita</td><td>+6</td><td>150</td></tr><tr><td>4</td><td>Demonondalinks</td><td>+9</td><td>153</td></tr><tr><td>5</td><td>lanzarlaluna</td><td>+10</td><td>154</td></tr><tr><td>T6</td><td>Hendomedes</td><td>+11</td><td>155</td></tr><tr><td>T6</td><td>Keep_of_Kalessin</td><td>+11</td><td>155</td></tr><tr><td>8</td><td>x3offthetee</td><td>+17</td><td>161</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Yeats Prize, County Sligo - Ireland (2026-09-18 to 2026-09-24) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-1</td><td>141</td></tr><tr><td>2</td><td>Demonondalinks</td><td>+2</td><td>144</td></tr><tr><td>T3</td><td>alegiuvadoita</td><td>+3</td><td>145</td></tr><tr><td>T3</td><td>Hoplinkz</td><td>+3</td><td>145</td></tr><tr><td>5</td><td>Keep_of_Kalessin</td><td>+9</td><td>151</td></tr><tr><td>6</td><td>Hammers1man</td><td>+15</td><td>157</td></tr><tr><td>7</td><td>Cockatoos</td><td>+16</td><td>158</td></tr><tr><td>8</td><td>Polekatt</td><td>+19</td><td>161</td></tr><tr><td>9</td><td>x3offthetee</td><td>+20</td><td>162</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Old Tom Cup, Moray (Old)-Scotland (2026-09-25 to 2026-10-01) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWaCkErGuY</td><td>-8</td><td>134</td></tr><tr><td>2</td><td>Colly45x</td><td>+2</td><td>144</td></tr><tr><td>3</td><td>x3offthetee</td><td>+7</td><td>149</td></tr><tr><td>4</td><td>Demonondalinks</td><td>+11</td><td>153</td></tr><tr><td>5</td><td>Cockatoos</td><td>+16</td><td>158</td></tr><tr><td>6</td><td>Keep_of_Kalessin</td><td>+19</td><td>161</td></tr><tr><td>7</td><td>Polekatt</td><td>+39</td><td>181</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025) (2026-10-02 to 2026-10-08) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-12</td><td>130</td></tr><tr><td>T2</td><td>Demonondalinks</td><td>+11</td><td>153</td></tr><tr><td>T2</td><td>Cockatoos</td><td>+11</td><td>153</td></tr><tr><td>4</td><td>hammers1man</td><td>+19</td><td>161</td></tr><tr><td>5</td><td>Keep_of_Kalessin</td><td>+21</td><td>163</td></tr></table></div>",
+  "date": "2026-10-02 to 2026-10-08",
+  "season": {
+    "Mr Longpole": {
+      "points": 1295,
+      "console": "Xbox",
+      "eventsPlayed": 7,
+      "wins": 3,
+      "acc": -42,
+      "form": [
+        2,
+        4,
+        1,
+        6,
+        4
+      ],
+      "history": [
+        {
+          "date": "2026-09-11 to 2026-09-17",
+          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
+          "gross": 145,
+          "toPar": 1,
+          "pos": "2"
+        },
+        {
+          "date": "2026-09-04 to 2026-09-10",
+          "venue": "The Lundin Medal, Lundin Links",
+          "gross": 135,
+          "toPar": -7,
+          "pos": "4"
+        },
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 131,
+          "toPar": -13,
+          "pos": "1"
+        },
+        {
+          "date": "2026-08-21 to 2026-08-27",
+          "venue": "The Spitfire Trophy, Lossiemouth",
+          "gross": 138,
+          "toPar": -6,
+          "pos": "T6"
+        },
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 142,
+          "toPar": -2,
+          "pos": "4"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 135,
+          "toPar": -5,
+          "pos": "T1"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 128,
+          "toPar": -10,
+          "pos": "1"
+        }
+      ],
+      "bestToPar": -13,
+      "bestTotal": 131,
+      "prevRank": 2,
+      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
+      "bestDate": "2026-08-28 to 2026-09-03"
+    },
+    "WingisBack": {
+      "points": 535,
+      "console": "PS",
+      "eventsPlayed": 4,
+      "wins": 0,
+      "acc": -14,
+      "form": [
+        8,
+        6,
+        3,
+        2
+      ],
+      "history": [
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 142,
+          "toPar": -2,
+          "pos": "8"
+        },
+        {
+          "date": "2026-08-21 to 2026-08-27",
+          "venue": "The Spitfire Trophy, Lossiemouth",
+          "gross": 138,
+          "toPar": -6,
+          "pos": "T6"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 143,
+          "toPar": 3,
+          "pos": "3"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 129,
+          "toPar": -9,
+          "pos": "T2"
+        }
+      ],
+      "bestToPar": -9,
+      "bestTotal": 129,
+      "prevRank": 4,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
+    },
+    "horusphoenix": {
+      "points": 550,
+      "console": "Xbox",
+      "eventsPlayed": 3,
+      "wins": 1,
+      "acc": -31,
+      "form": [
+        2,
+        1,
+        2
+      ],
+      "history": [
+        {
+          "date": "2026-08-21 to 2026-08-27",
+          "venue": "The Spitfire Trophy, Lossiemouth",
+          "gross": 136,
+          "toPar": -8,
+          "pos": "T2"
+        },
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 130,
+          "toPar": -14,
+          "pos": "1"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 129,
+          "toPar": -9,
+          "pos": "T2"
+        }
+      ],
+      "bestToPar": -14,
+      "bestTotal": 130,
+      "prevRank": 3,
+      "bestVenue": "The Irish Open, Portmarnock",
+      "bestDate": "2026-08-14 to 2026-08-20"
+    },
+    "Colly45x": {
+      "points": 2605,
+      "console": "Xbox",
+      "eventsPlayed": 11,
+      "wins": 7,
+      "acc": -84,
+      "form": [
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "history": [
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 130,
+          "toPar": -12,
+          "pos": "1"
+        },
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 130,
+          "toPar": -12,
+          "pos": "1"
+        },
+        {
+          "date": "2026-09-25 to 2026-10-01",
+          "venue": "The Old Tom Cup, Moray (Old)-Scotland",
+          "gross": 144,
+          "toPar": 2,
+          "pos": "2"
+        },
+        {
+          "date": "2026-09-18 to 2026-09-24",
+          "venue": "The Yeats Prize, County Sligo - Ireland",
+          "gross": 141,
+          "toPar": -1,
+          "pos": "1"
+        },
+        {
+          "date": "2026-09-11 to 2026-09-17",
+          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
+          "gross": 138,
+          "toPar": -6,
+          "pos": "1"
+        },
+        {
+          "date": "2026-09-04 to 2026-09-10",
+          "venue": "The Lundin Medal, Lundin Links",
+          "gross": 132,
+          "toPar": -10,
+          "pos": "1"
+        },
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 133,
+          "toPar": -11,
+          "pos": "3"
+        },
+        {
+          "date": "2026-08-21 to 2026-08-27",
+          "venue": "The Spitfire Trophy, Lossiemouth",
+          "gross": 128,
+          "toPar": -16,
+          "pos": "1"
+        },
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 138,
+          "toPar": -6,
+          "pos": "3"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 135,
+          "toPar": -5,
+          "pos": "T1"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 131,
+          "toPar": -7,
+          "pos": "4"
+        }
+      ],
+      "bestToPar": -16,
+      "bestTotal": 128,
+      "prevRank": 1,
+      "bestVenue": "The Spitfire Trophy, Lossiemouth",
+      "bestDate": "2026-08-21 to 2026-08-27"
+    },
+    "GbWaCkErGuY": {
+      "points": 1050,
+      "console": "Xbox",
+      "eventsPlayed": 5,
+      "wins": 1,
+      "acc": -43,
+      "form": [
+        1,
+        2,
+        2,
+        2,
+        5
+      ],
+      "history": [
+        {
+          "date": "2026-09-25 to 2026-10-01",
+          "venue": "The Old Tom Cup, Moray (Old)-Scotland",
+          "gross": 134,
+          "toPar": -8,
+          "pos": "1"
+        },
+        {
+          "date": "2026-09-04 to 2026-09-10",
+          "venue": "The Lundin Medal, Lundin Links",
+          "gross": 133,
+          "toPar": -9,
+          "pos": "T2"
+        },
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 132,
+          "toPar": -12,
+          "pos": "2"
+        },
+        {
+          "date": "2026-08-21 to 2026-08-27",
+          "venue": "The Spitfire Trophy, Lossiemouth",
+          "gross": 136,
+          "toPar": -8,
+          "pos": "T2"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 132,
+          "toPar": -6,
+          "pos": "5"
+        }
+      ],
+      "bestToPar": -12,
+      "bestTotal": 132,
+      "prevRank": 3,
+      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
+      "bestDate": "2026-08-28 to 2026-09-03"
+    },
+    "Bullfrog_Leg": {
+      "points": 80,
+      "console": "PS",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 1,
+      "form": [
+        6
+      ],
+      "history": [
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 139,
+          "toPar": 1,
+          "pos": "T6"
+        }
+      ],
+      "bestToPar": 1,
+      "bestTotal": 139,
+      "prevRank": 1,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
+    },
+    "Demonondalinks": {
+      "points": 1525,
+      "console": "Xbox",
+      "eventsPlayed": 11,
+      "wins": 0,
+      "acc": 83,
+      "form": [
+        2,
+        2,
+        4,
+        2,
+        4
+      ],
+      "history": [
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 153,
+          "toPar": 11,
+          "pos": "T2"
+        },
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 153,
+          "toPar": 11,
+          "pos": "T2"
+        },
+        {
+          "date": "2026-09-25 to 2026-10-01",
+          "venue": "The Old Tom Cup, Moray (Old)-Scotland",
+          "gross": 153,
+          "toPar": 11,
+          "pos": "4"
+        },
+        {
+          "date": "2026-09-18 to 2026-09-24",
+          "venue": "The Yeats Prize, County Sligo - Ireland",
+          "gross": 144,
+          "toPar": 2,
+          "pos": "2"
+        },
+        {
+          "date": "2026-09-11 to 2026-09-17",
+          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
+          "gross": 153,
+          "toPar": 9,
+          "pos": "4"
+        },
+        {
+          "date": "2026-09-04 to 2026-09-10",
+          "venue": "The Lundin Medal, Lundin Links",
+          "gross": 154,
+          "toPar": 12,
+          "pos": "7"
+        },
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 144,
+          "toPar": 0,
+          "pos": "10"
+        },
+        {
+          "date": "2026-08-21 to 2026-08-27",
+          "venue": "The Spitfire Trophy, Lossiemouth",
+          "gross": 148,
+          "toPar": 4,
+          "pos": "8"
+        },
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 154,
+          "toPar": 10,
+          "pos": "7"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 152,
+          "toPar": 12,
+          "pos": "6"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 139,
+          "toPar": 1,
+          "pos": "T6"
+        }
+      ],
+      "bestToPar": 0,
+      "bestTotal": 144,
+      "prevRank": 3,
+      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
+      "bestDate": "2026-08-28 to 2026-09-03"
+    },
+    "Cockatoos": {
+      "points": 920,
+      "console": "PC",
+      "eventsPlayed": 5,
+      "wins": 0,
+      "acc": 56,
+      "form": [
+        2,
+        2,
+        5,
+        7,
+        8
+      ],
+      "history": [
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 153,
+          "toPar": 11,
+          "pos": "T2"
+        },
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 153,
+          "toPar": 11,
+          "pos": "T2"
+        },
+        {
+          "date": "2026-09-25 to 2026-10-01",
+          "venue": "The Old Tom Cup, Moray (Old)-Scotland",
+          "gross": 158,
+          "toPar": 16,
+          "pos": "5"
+        },
+        {
+          "date": "2026-09-18 to 2026-09-24",
+          "venue": "The Yeats Prize, County Sligo - Ireland",
+          "gross": 158,
+          "toPar": 16,
+          "pos": "7"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 140,
+          "toPar": 2,
+          "pos": "8"
+        }
+      ],
+      "bestToPar": 2,
+      "bestTotal": 140,
+      "prevRank": 8,
+      "bestVenue": "The Danish Open, Soendefyr & Brakvand",
+      "bestDate": "2026-07-31 to 2026-08-06"
+    },
+    "x3offthetee": {
+      "points": 760,
+      "console": "Xbox",
+      "eventsPlayed": 8,
+      "wins": 0,
+      "acc": 31,
+      "form": [
+        3,
+        9,
+        8,
+        5,
+        5
+      ],
+      "history": [
+        {
+          "date": "2026-09-25 to 2026-10-01",
+          "venue": "The Old Tom Cup, Moray (Old)-Scotland",
+          "gross": 149,
+          "toPar": 7,
+          "pos": "3"
+        },
+        {
+          "date": "2026-09-18 to 2026-09-24",
+          "venue": "The Yeats Prize, County Sligo - Ireland",
+          "gross": 162,
+          "toPar": 20,
+          "pos": "9"
+        },
+        {
+          "date": "2026-09-11 to 2026-09-17",
+          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
+          "gross": 161,
+          "toPar": 17,
+          "pos": "8"
+        },
+        {
+          "date": "2026-09-04 to 2026-09-10",
+          "venue": "The Lundin Medal, Lundin Links",
+          "gross": 139,
+          "toPar": -3,
+          "pos": "5"
+        },
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 137,
+          "toPar": -7,
+          "pos": "T5"
+        },
+        {
+          "date": "2026-08-21 to 2026-08-27",
+          "venue": "The Spitfire Trophy, Lossiemouth",
+          "gross": 137,
+          "toPar": -7,
+          "pos": "5"
+        },
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 143,
+          "toPar": -1,
+          "pos": "5"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 143,
+          "toPar": 5,
+          "pos": "9"
+        }
+      ],
+      "bestToPar": -7,
+      "bestTotal": 137,
+      "prevRank": 6,
+      "bestVenue": "The Spitfire Trophy, Lossiemouth",
+      "bestDate": "2026-08-21 to 2026-08-27"
+    },
+    "Hendomedes": {
+      "points": 395,
+      "console": "Xbox",
+      "eventsPlayed": 4,
+      "wins": 0,
+      "acc": 20,
+      "form": [
+        6,
+        2,
+        4,
+        10
+      ],
+      "history": [
+        {
+          "date": "2026-09-11 to 2026-09-17",
+          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
+          "gross": 155,
+          "toPar": 11,
+          "pos": "T6"
+        },
+        {
+          "date": "2026-09-04 to 2026-09-10",
+          "venue": "The Lundin Medal, Lundin Links",
+          "gross": 133,
+          "toPar": -9,
+          "pos": "T2"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 146,
+          "toPar": 6,
+          "pos": "4"
+        },
+        {
+          "date": "2026-07-31 to 2026-08-06",
+          "venue": "The Danish Open, Soendefyr & Brakvand",
+          "gross": 150,
+          "toPar": 12,
+          "pos": "10"
+        }
+      ],
+      "bestToPar": -9,
+      "bestTotal": 133,
+      "prevRank": 9,
+      "bestVenue": "The Lundin Medal, Lundin Links",
+      "bestDate": "2026-09-04 to 2026-09-10"
+    },
+    "Hoplinkz": {
+      "points": 240,
+      "console": "PS",
+      "eventsPlayed": 2,
+      "wins": 0,
+      "acc": 10,
+      "form": [
+        3,
+        5
+      ],
+      "history": [
+        {
+          "date": "2026-09-18 to 2026-09-24",
+          "venue": "The Yeats Prize, County Sligo - Ireland",
+          "gross": 145,
+          "toPar": 3,
+          "pos": "T3"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 147,
+          "toPar": 7,
+          "pos": "5"
+        }
+      ],
+      "bestToPar": 3,
+      "bestTotal": 145,
+      "prevRank": 17,
+      "bestVenue": "The Yeats Prize, County Sligo - Ireland",
+      "bestDate": "2026-09-18 to 2026-09-24"
+    },
+    "Hammers1man": {
+      "points": 325,
+      "console": "PC",
+      "eventsPlayed": 3,
+      "wins": 0,
+      "acc": 27,
+      "form": [
+        6,
+        2,
+        7
+      ],
+      "history": [
+        {
+          "date": "2026-09-18 to 2026-09-24",
+          "venue": "The Yeats Prize, County Sligo - Ireland",
+          "gross": 157,
+          "toPar": 15,
+          "pos": "6"
+        },
+        {
+          "date": "2026-08-21 to 2026-08-27",
+          "venue": "The Spitfire Trophy, Lossiemouth",
+          "gross": 136,
+          "toPar": -8,
+          "pos": "T2"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 160,
+          "toPar": 20,
+          "pos": "7"
+        }
+      ],
+      "bestToPar": -8,
+      "bestTotal": 136,
+      "prevRank": 11,
+      "bestVenue": "The Spitfire Trophy, Lossiemouth",
+      "bestDate": "2026-08-21 to 2026-08-27"
+    },
+    "Keep_of_Kalessin": {
+      "points": 760,
+      "console": "PS",
+      "eventsPlayed": 7,
+      "wins": 0,
+      "acc": 113,
+      "form": [
+        5,
+        5,
+        6,
+        5,
+        6
+      ],
+      "history": [
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 163,
+          "toPar": 21,
+          "pos": "5"
+        },
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 163,
+          "toPar": 21,
+          "pos": "5"
+        },
+        {
+          "date": "2026-09-25 to 2026-10-01",
+          "venue": "The Old Tom Cup, Moray (Old)-Scotland",
+          "gross": 161,
+          "toPar": 19,
+          "pos": "6"
+        },
+        {
+          "date": "2026-09-18 to 2026-09-24",
+          "venue": "The Yeats Prize, County Sligo - Ireland",
+          "gross": 151,
+          "toPar": 9,
+          "pos": "5"
+        },
+        {
+          "date": "2026-09-11 to 2026-09-17",
+          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
+          "gross": 155,
+          "toPar": 11,
+          "pos": "T6"
+        },
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 151,
+          "toPar": 7,
+          "pos": "6"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 165,
+          "toPar": 25,
+          "pos": "T8"
+        }
+      ],
+      "bestToPar": 7,
+      "bestTotal": 151,
+      "prevRank": 7,
+      "bestVenue": "The Irish Open, Portmarnock",
+      "bestDate": "2026-08-14 to 2026-08-20"
+    },
+    "Polekatt": {
+      "points": 390,
+      "console": "PC",
+      "eventsPlayed": 7,
+      "wins": 0,
+      "acc": 155,
+      "form": [
+        7,
+        8,
+        8,
+        12,
+        10
+      ],
+      "history": [
+        {
+          "date": "2026-09-25 to 2026-10-01",
+          "venue": "The Old Tom Cup, Moray (Old)-Scotland",
+          "gross": 181,
+          "toPar": 39,
+          "pos": "7"
+        },
+        {
+          "date": "2026-09-18 to 2026-09-24",
+          "venue": "The Yeats Prize, County Sligo - Ireland",
+          "gross": 161,
+          "toPar": 19,
+          "pos": "8"
+        },
+        {
+          "date": "2026-09-04 to 2026-09-10",
+          "venue": "The Lundin Medal, Lundin Links",
+          "gross": 159,
+          "toPar": 17,
+          "pos": "8"
+        },
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 161,
+          "toPar": 17,
+          "pos": "12"
+        },
+        {
+          "date": "2026-08-21 to 2026-08-27",
+          "venue": "The Spitfire Trophy, Lossiemouth",
+          "gross": 159,
+          "toPar": 15,
+          "pos": "10"
+        },
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 167,
+          "toPar": 23,
+          "pos": "8"
+        },
+        {
+          "date": "2026-08-07 to 2026-08-13",
+          "venue": "The Lytham Trophy, Royal Lytham St Annes ",
+          "gross": 165,
+          "toPar": 25,
+          "pos": "T8"
+        }
+      ],
+      "bestToPar": 15,
+      "bestTotal": 159,
+      "prevRank": 12,
+      "bestVenue": "The Spitfire Trophy, Lossiemouth",
+      "bestDate": "2026-08-21 to 2026-08-27"
+    },
+    "GatitoPower": {
+      "points": 175,
+      "console": "PC",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -12,
+      "form": [
+        2
+      ],
+      "history": [
+        {
+          "date": "2026-08-14 to 2026-08-20",
+          "venue": "The Irish Open, Portmarnock",
+          "gross": 132,
+          "toPar": -12,
+          "pos": "2"
+        }
+      ],
+      "bestToPar": -12,
+      "bestTotal": 132,
+      "prevRank": 15,
+      "bestVenue": "The Irish Open, Portmarnock",
+      "bestDate": "2026-08-14 to 2026-08-20"
+    },
+    "alegiuvadoita": {
+      "points": 640,
+      "console": "PS",
+      "eventsPlayed": 5,
+      "wins": 0,
+      "acc": 10,
+      "form": [
+        3,
+        3,
+        6,
+        4,
+        9
+      ],
+      "history": [
+        {
+          "date": "2026-09-18 to 2026-09-24",
+          "venue": "The Yeats Prize, County Sligo - Ireland",
+          "gross": 145,
+          "toPar": 3,
+          "pos": "T3"
+        },
+        {
+          "date": "2026-09-11 to 2026-09-17",
+          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
+          "gross": 150,
+          "toPar": 6,
+          "pos": "3"
+        },
+        {
+          "date": "2026-09-04 to 2026-09-10",
+          "venue": "The Lundin Medal, Lundin Links",
+          "gross": 144,
+          "toPar": 2,
+          "pos": "6"
+        },
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 136,
+          "toPar": -8,
+          "pos": "4"
+        },
+        {
+          "date": "2026-08-21 to 2026-08-27",
+          "venue": "The Spitfire Trophy, Lossiemouth",
+          "gross": 151,
+          "toPar": 7,
+          "pos": "9"
+        }
+      ],
+      "bestToPar": -8,
+      "bestTotal": 136,
+      "prevRank": 8,
+      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
+      "bestDate": "2026-08-28 to 2026-09-03"
+    },
+    "CoachLewis7342": {
+      "points": 180,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -7,
+      "form": [
+        5
+      ],
+      "history": [
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 137,
+          "toPar": -7,
+          "pos": "T5"
+        }
+      ],
+      "bestToPar": -7,
+      "bestTotal": 137,
+      "prevRank": 17,
+      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
+      "bestDate": "2026-08-28 to 2026-09-03"
+    },
+    "lanzarlaluna": {
+      "points": 230,
+      "console": "PS",
+      "eventsPlayed": 2,
+      "wins": 0,
+      "acc": 7,
+      "form": [
+        5,
+        7
+      ],
+      "history": [
+        {
+          "date": "2026-09-11 to 2026-09-17",
+          "venue": "Ring of Kerry Open, Waterville GL-Ireland",
+          "gross": 154,
+          "toPar": 10,
+          "pos": "5"
+        },
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 141,
+          "toPar": -3,
+          "pos": "7"
+        }
+      ],
+      "bestToPar": -3,
+      "bestTotal": 141,
+      "prevRank": 15,
+      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
+      "bestDate": "2026-08-28 to 2026-09-03"
+    },
+    "NightTrainD": {
+      "points": 100,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -1,
+      "form": [
+        9
+      ],
+      "history": [
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 143,
+          "toPar": -1,
+          "pos": "9"
+        }
+      ],
+      "bestToPar": -1,
+      "bestTotal": 143,
+      "prevRank": 17,
+      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
+      "bestDate": "2026-08-28 to 2026-09-03"
+    },
+    "SlimmerShady24": {
+      "points": 60,
+      "console": "PS",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 7,
+      "form": [
+        11
+      ],
+      "history": [
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 151,
+          "toPar": 7,
+          "pos": "11"
+        }
+      ],
+      "bestToPar": 7,
+      "bestTotal": 151,
+      "prevRank": 17,
+      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
+      "bestDate": "2026-08-28 to 2026-09-03"
+    },
+    "bfctino": {
+      "points": 20,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 31,
+      "form": [
+        13
+      ],
+      "history": [
+        {
+          "date": "2026-08-28 to 2026-09-03",
+          "venue": "The Dunvegan Cup, Old Course St Andrews",
+          "gross": 175,
+          "toPar": 31,
+          "pos": "13"
+        }
+      ],
+      "bestToPar": 31,
+      "bestTotal": 175,
+      "prevRank": 17,
+      "bestVenue": "The Dunvegan Cup, Old Course St Andrews",
+      "bestDate": "2026-08-28 to 2026-09-03"
+    },
+    "hammers1man": {
+      "points": 400,
+      "console": "Xbox",
+      "eventsPlayed": 2,
+      "wins": 0,
+      "acc": 38,
+      "form": [
+        4,
+        4
+      ],
+      "history": [
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 161,
+          "toPar": 19,
+          "pos": "4"
+        },
+        {
+          "date": "2026-10-02 to 2026-10-08",
+          "venue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+          "gross": 161,
+          "toPar": 19,
+          "pos": "4"
+        }
+      ],
+      "bestToPar": 19,
+      "bestTotal": 161,
+      "prevRank": 16,
+      "bestVenue": "The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025)",
+      "bestDate": "2026-10-02 to 2026-10-08"
+    }
+  },
+  "history": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Danish Open, Soendefyr & Brakvand (2026-07-31 to 2026-08-06) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-10</td><td>128</td></tr><tr><td>T2</td><td>WingisBack</td><td>-9</td><td>129</td></tr><tr><td>T2</td><td>horusphoenix</td><td>-9</td><td>129</td></tr><tr><td>4</td><td>Colly45x</td><td>-7</td><td>131</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>132</td></tr><tr><td>T6</td><td>Bullfrog_Leg</td><td>+1</td><td>139</td></tr><tr><td>T6</td><td>Demonondalinks</td><td>+1</td><td>139</td></tr><tr><td>8</td><td>Cockatoos</td><td>+2</td><td>140</td></tr><tr><td>9</td><td>x3offthetee</td><td>+5</td><td>143</td></tr><tr><td>10</td><td>Hendomedes</td><td>+12</td><td>150</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Lytham Trophy, Royal Lytham St Annes  (2026-08-07 to 2026-08-13) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Mr Longpole</td><td>-5</td><td>135</td></tr><tr><td>T1</td><td>Colly45x</td><td>-5</td><td>135</td></tr><tr><td>3</td><td>WingisBack</td><td>+3</td><td>143</td></tr><tr><td>4</td><td>Hendomedes</td><td>+6</td><td>146</td></tr><tr><td>5</td><td>Hoplinkz</td><td>+7</td><td>147</td></tr><tr><td>6</td><td>Demonondalinks</td><td>+12</td><td>152</td></tr><tr><td>7</td><td>Hammers1man</td><td>+20</td><td>160</td></tr><tr><td>T8</td><td>Keep_of_Kalessin</td><td>+25</td><td>165</td></tr><tr><td>T8</td><td>Polekatt</td><td>+25</td><td>165</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Irish Open, Portmarnock (2026-08-14 to 2026-08-20) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>horusphoenix</td><td>-14</td><td>130</td></tr><tr><td>2</td><td>GatitoPower</td><td>-12</td><td>132</td></tr><tr><td>3</td><td>Colly45x</td><td>-6</td><td>138</td></tr><tr><td>4</td><td>Mr Longpole</td><td>-2</td><td>142</td></tr><tr><td>5</td><td>x3offthetee</td><td>-1</td><td>143</td></tr><tr><td>6</td><td>Keep_of_Kalessin</td><td>+7</td><td>151</td></tr><tr><td>7</td><td>Demonondalinks</td><td>+10</td><td>154</td></tr><tr><td>8</td><td>Polekatt</td><td>+23</td><td>167</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Spitfire Trophy, Lossiemouth (2026-08-21 to 2026-08-27) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-16</td><td>128</td></tr><tr><td>T2</td><td>horusphoenix</td><td>-8</td><td>136</td></tr><tr><td>T2</td><td>GbWaCkErGuY</td><td>-8</td><td>136</td></tr><tr><td>T2</td><td>Hammers1man</td><td>-8</td><td>136</td></tr><tr><td>5</td><td>x3offthetee</td><td>-7</td><td>137</td></tr><tr><td>T6</td><td>Mr Longpole</td><td>-6</td><td>138</td></tr><tr><td>T6</td><td>WingisBack</td><td>-6</td><td>138</td></tr><tr><td>8</td><td>Demonondalinks</td><td>+4</td><td>148</td></tr><tr><td>9</td><td>alegiuvadoita</td><td>+7</td><td>151</td></tr><tr><td>10</td><td>Polekatt</td><td>+15</td><td>159</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Dunvegan Cup, Old Course St Andrews (2026-08-28 to 2026-09-03) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-13</td><td>131</td></tr><tr><td>2</td><td>GbWaCkErGuY</td><td>-12</td><td>132</td></tr><tr><td>3</td><td>Colly45x</td><td>-11</td><td>133</td></tr><tr><td>4</td><td>alegiuvadoita</td><td>-8</td><td>136</td></tr><tr><td>T5</td><td>x3offthetee</td><td>-7</td><td>137</td></tr><tr><td>T5</td><td>CoachLewis7342</td><td>-7</td><td>137</td></tr><tr><td>7</td><td>lanzarlaluna</td><td>-3</td><td>141</td></tr><tr><td>8</td><td>WingisBack</td><td>-2</td><td>142</td></tr><tr><td>9</td><td>NightTrainD</td><td>-1</td><td>143</td></tr><tr><td>10</td><td>Demonondalinks</td><td>E</td><td>144</td></tr><tr><td>11</td><td>SlimmerShady24</td><td>+7</td><td>151</td></tr><tr><td>12</td><td>Polekatt</td><td>+17</td><td>161</td></tr><tr><td>13</td><td>bfctino</td><td>+31</td><td>175</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Lundin Medal, Lundin Links (2026-09-04 to 2026-09-10) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-10</td><td>132</td></tr><tr><td>T2</td><td>GbWaCkErGuY</td><td>-9</td><td>133</td></tr><tr><td>T2</td><td>Hendomedes</td><td>-9</td><td>133</td></tr><tr><td>4</td><td>Mr Longpole</td><td>-7</td><td>135</td></tr><tr><td>5</td><td>x3offthetee</td><td>-3</td><td>139</td></tr><tr><td>6</td><td>alegiuvadoita</td><td>+2</td><td>144</td></tr><tr><td>7</td><td>Demonondalinks</td><td>+12</td><td>154</td></tr><tr><td>8</td><td>Polekatt</td><td>+17</td><td>159</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Ring of Kerry Open, Waterville GL-Ireland (2026-09-11 to 2026-09-17) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-6</td><td>138</td></tr><tr><td>2</td><td>Mr Longpole</td><td>+1</td><td>145</td></tr><tr><td>3</td><td>alegiuvadoita</td><td>+6</td><td>150</td></tr><tr><td>4</td><td>Demonondalinks</td><td>+9</td><td>153</td></tr><tr><td>5</td><td>lanzarlaluna</td><td>+10</td><td>154</td></tr><tr><td>T6</td><td>Hendomedes</td><td>+11</td><td>155</td></tr><tr><td>T6</td><td>Keep_of_Kalessin</td><td>+11</td><td>155</td></tr><tr><td>8</td><td>x3offthetee</td><td>+17</td><td>161</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Yeats Prize, County Sligo - Ireland (2026-09-18 to 2026-09-24) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-1</td><td>141</td></tr><tr><td>2</td><td>Demonondalinks</td><td>+2</td><td>144</td></tr><tr><td>T3</td><td>alegiuvadoita</td><td>+3</td><td>145</td></tr><tr><td>T3</td><td>Hoplinkz</td><td>+3</td><td>145</td></tr><tr><td>5</td><td>Keep_of_Kalessin</td><td>+9</td><td>151</td></tr><tr><td>6</td><td>Hammers1man</td><td>+15</td><td>157</td></tr><tr><td>7</td><td>Cockatoos</td><td>+16</td><td>158</td></tr><tr><td>8</td><td>Polekatt</td><td>+19</td><td>161</td></tr><tr><td>9</td><td>x3offthetee</td><td>+20</td><td>162</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Old Tom Cup, Moray (Old)-Scotland (2026-09-25 to 2026-10-01) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWaCkErGuY</td><td>-8</td><td>134</td></tr><tr><td>2</td><td>Colly45x</td><td>+2</td><td>144</td></tr><tr><td>3</td><td>x3offthetee</td><td>+7</td><td>149</td></tr><tr><td>4</td><td>Demonondalinks</td><td>+11</td><td>153</td></tr><tr><td>5</td><td>Cockatoos</td><td>+16</td><td>158</td></tr><tr><td>6</td><td>Keep_of_Kalessin</td><td>+19</td><td>161</td></tr><tr><td>7</td><td>Polekatt</td><td>+39</td><td>181</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025) (2026-10-02 to 2026-10-08) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-12</td><td>130</td></tr><tr><td>T2</td><td>Demonondalinks</td><td>+11</td><td>153</td></tr><tr><td>T2</td><td>Cockatoos</td><td>+11</td><td>153</td></tr><tr><td>4</td><td>hammers1man</td><td>+19</td><td>161</td></tr><tr><td>5</td><td>Keep_of_Kalessin</td><td>+21</td><td>163</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The John Ball Trophy (Major), Royal Liverpool Club (Hoylake 2025) (2026-10-02 to 2026-10-08) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-12</td><td>130</td></tr><tr><td>T2</td><td>Demonondalinks</td><td>+11</td><td>153</td></tr><tr><td>T2</td><td>Cockatoos</td><td>+11</td><td>153</td></tr><tr><td>4</td><td>hammers1man</td><td>+19</td><td>161</td></tr><tr><td>5</td><td>Keep_of_Kalessin</td><td>+21</td><td>163</td></tr></table></div>"
 }
